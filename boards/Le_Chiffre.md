@@ -2,17 +2,17 @@
 title: Le Chiffre
 description: 
 published: true
-date: 2021-01-18T23:58:57.782Z
+date: 2024-02-01T07:39:28.192Z
 tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
 editor: markdown
-dateCreated: 2021-01-18T22:52:02.649Z
+dateCreated: 2023-02-08T19:50:24.661Z
 ---
 
 # Le Chiffre
 
 Le Chiffre is a 30% columnar stagger board designed by tominabox1. It is a unibody split design, and open sourced including all KiCad files. 
 
-![sickbabies' Le Chiffre, featuring GMK space cadet, and a beige 3DPrinted case from P3D storel >](/boards/images/le_chiffre.webp)
+![sickbabies' Le Chiffre, featuring GMK space cadet, and a beige 3DPrinted case from P3D storel >](/boards/images/le_chiffre.webp =50%x)
 
 ## Overview
 
