@@ -1,18 +1,18 @@
 ---
 title: Planck
 description: Use this template for new keyboard pages
-published: false
-date: 2021-01-18T04:49:49.282Z
+published: true
+date: 2024-02-01T07:41:53.823Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-18T04:49:49.282Z
+dateCreated: 2023-02-08T19:50:32.466Z
 ---
 
 # Planck
 
 Planck is a unibody ortho keyboard designed by OLKB.
 
-![planck.jpg](/boards/images/planck.jpg){.align-right}
+![planck.jpg](/boards/images/planck.jpg =50%x)
 
 ### Availability
 
