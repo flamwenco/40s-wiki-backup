@@ -2,19 +2,17 @@
 title: Ferris
 description: 
 published: true
-date: 2021-01-18T09:40:19.802Z
+date: 2024-02-01T07:33:35.174Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-18T04:43:00.195Z
+dateCreated: 2023-02-08T19:50:07.481Z
 ---
-
-
 
 # Ferris
 
 Ferris is a 34 key split keyboard, named after the Rustlang mascott, created by Pierre Chevalier. The Ferris is minimalistic: it aims to be a functional, ergonomic keyboard that is pleasing to use as a daily driver.
 
-![ferris_base.jpg](/boards/images/ferris_base.jpg){.align-right}
+![ferris_base.jpg](/boards/images/ferris_base.jpg =50%x)
 
 ### Availability
 
