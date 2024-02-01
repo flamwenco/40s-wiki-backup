@@ -2,17 +2,17 @@
 title: Kyria
 description: Use this template for new keyboard pages
 published: true
-date: 2021-01-18T04:47:30.185Z
+date: 2024-02-01T07:36:34.807Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-18T04:47:30.185Z
+dateCreated: 2023-02-08T19:50:16.586Z
 ---
 
 # Kyria
 
 Kyria is a split keyboard designed by Thomas Baart. 
 
-![kyria.png](/Boards/images/kyria.png){.align-right}
+![kyria.png](/Boards/images/kyria.png =50%x)
 
 ### Availability
 
