@@ -2,8 +2,8 @@
 title: Planck
 description: Use this template for new keyboard pages
 published: true
-date: 2024-02-01T07:41:53.823Z
-tags: 
+date: 2024-02-01T07:42:26.905Z
+tags: ortho, planck
 editor: markdown
 dateCreated: 2023-02-08T19:50:32.466Z
 ---
