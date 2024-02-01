@@ -1,11 +1,11 @@
 ---
 title: Prime_E
 description: Use this template for new keyboard pages
-published: false
-date: 2021-01-18T04:51:14.757Z
+published: true
+date: 2024-02-01T07:29:12.584Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-18T04:51:14.757Z
+dateCreated: 2023-02-08T20:41:04.683Z
 ---
 
 # Prime_E

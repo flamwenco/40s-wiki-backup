@@ -2,10 +2,10 @@
 title: Introduction
 description: 
 published: true
-date: 2021-01-18T05:05:29.322Z
+date: 2023-07-01T00:22:46.282Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-18T05:05:29.322Z
+dateCreated: 2023-02-08T20:41:18.790Z
 ---
 
 # Welcome to the 40% cult!

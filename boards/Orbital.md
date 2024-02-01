@@ -2,7 +2,7 @@
 title: Orbital
 description: Use this template for new keyboard pages
 published: false
-date: 2024-02-01T07:41:28.109Z
+date: 2024-02-01T07:41:30.751Z
 tags: trackball
 editor: markdown
 dateCreated: 2023-07-01T00:22:28.206Z

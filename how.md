@@ -2,10 +2,10 @@
 title: How
 description: How do you use a 40% keyboard?
 published: true
-date: 2023-02-09T21:23:18.331Z
+date: 2023-07-10T03:28:33.857Z
 tags: 
 editor: markdown
-dateCreated: 2023-02-09T21:23:18.331Z
+dateCreated: 2023-02-10T05:27:06.612Z
 ---
 
 # How

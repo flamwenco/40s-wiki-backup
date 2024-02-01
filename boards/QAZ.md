@@ -2,10 +2,10 @@
 title: QAZ
 description: Use this template for new keyboard pages
 published: true
-date: 2021-01-18T04:52:23.120Z
+date: 2024-02-01T07:29:16.127Z
 tags: 
 editor: markdown
-dateCreated: 2021-01-18T04:52:23.120Z
+dateCreated: 2023-02-08T20:41:09.610Z
 ---
 
 # QAZ

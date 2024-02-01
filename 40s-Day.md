@@ -1,11 +1,11 @@
 ---
 title: 40s Day
-description:
+description: 
 published: true
-date: 2023-05-29T21:23:18.331Z
+date: 2023-07-01T00:22:03.618Z
 tags: 
 editor: markdown
-dateCreated: 2023-05-29T21:23:18.331Z
+dateCreated: 2023-07-01T00:22:01.009Z
 ---
 
 # 40s Day

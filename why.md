@@ -2,10 +2,10 @@
 title: Why
 description: 
 published: true
-date: 2023-02-09T00:04:00.000Z
+date: 2023-07-01T00:22:15.201Z
 tags: 
 editor: markdown
-dateCreated: 2023-02-09T00:04:00.000Z
+dateCreated: 2023-02-10T02:11:43.144Z
 ---
 
 # Why use a 40% keyboard?

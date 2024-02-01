@@ -1,11 +1,11 @@
 ---
 title: Keyboard Template
 description: Use this template for new keyboard pages
-published: false
-date: 2021-01-17T23:31:18.605Z
+published: true
+date: 2023-07-01T00:22:51.176Z
 tags: templates
 editor: markdown
-dateCreated: 2021-01-17T23:17:49.032Z
+dateCreated: 2023-02-08T20:41:27.010Z
 ---
 
 # Board Name

@@ -2,7 +2,7 @@
 title: Corne
 description: Corne Keybaord
 published: true
-date: 2024-02-01T07:32:55.911Z
+date: 2024-02-01T07:32:58.504Z
 tags: split, column stagger
 editor: markdown
 dateCreated: 2023-02-08T19:49:55.536Z
