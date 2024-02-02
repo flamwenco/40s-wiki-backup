@@ -2,7 +2,7 @@
 title: Pip Bois PCBs
 description: A breif description of the Pip Bois Vault35 keyboard PCBs and its variants, designed by jlw_ and calvin-mcd
 published: false
-date: 2024-02-02T03:56:00.643Z
+date: 2024-02-02T03:58:31.800Z
 tags: ortho, row stagger, katana, jlw_, alpha stagger, uniform stagger, treadstone stagger, calvin-mcd, vault 35
 editor: markdown
 dateCreated: 2024-02-02T03:43:12.035Z
