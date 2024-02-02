@@ -1,14 +1,14 @@
 ---
-title: Vault35
+title: Vault 35
 description: A breif description of the Vault35 keyboard and its variants, originally designed by Cain of MechVault
 published: true
-date: 2024-02-02T03:47:01.061Z
-tags: row stagger, vault35, 30s, 35%, cain bars, mechvault
+date: 2024-02-02T03:48:07.995Z
+tags: row stagger, 30s, 35%, cain bars, mechvault, vault 35
 editor: markdown
 dateCreated: 2024-02-01T06:53:06.852Z
 ---
 
-# Vault35
+# Vault 35
 
 A Vault 35 is a 35% percent keyboard created and sold by Cain of Mechvault
 
