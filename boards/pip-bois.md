@@ -2,18 +2,18 @@
 title: Pip Bois PCBs
 description: A breif description of the Pip Bois Vault35 keyboard PCBs and its variants, designed by jlw_ and calvin-mcd
 published: false
-date: 2024-02-02T03:43:12.035Z
-tags: ortho, row stagger, vault35, katana, jlw_, alpha stagger, uniform stagger, treadstone stagger, calvin-mcd
+date: 2024-02-02T03:51:53.393Z
+tags: ortho, row stagger, katana, jlw_, alpha stagger, uniform stagger, treadstone stagger, calvin-mcd, vault 35
 editor: markdown
 dateCreated: 2024-02-02T03:43:12.035Z
 ---
 
-This article refers to PCBs compatible with Vault 35 cases, for the article on Vault 35s themselves please go to the [Vault 35 article](https://40s.wiki/en/vault35).
+This article refers to PCBs compatible with Vault 35 cases, for the article on Vault 35s themselves please go to the [Vault 35 article](/boards/vault-35).
 # Pip Bois PCBs
 
 
 
-The Pip Bois series of PCBs are several PCBs created by calvin-mcd and jlw_ and sold by jlw_ designed to fit within [Vault 35](https://40s.wiki/en/vault35) cases made by Mechvault. The rational behind these PCBs was to provide additional layout possibilities to those who enjoyed using Vault 35s but wanted to try out a different layout or whos prefered stagger was not traditional row stagger.
+The Pip Bois series of PCBs are several PCBs created by calvin-mcd and jlw_ and sold by jlw_ designed to fit within [Vault 35](/boards/vault-35) cases made by Mechvault. The rational behind these PCBs was to provide additional layout possibilities to those who enjoyed using Vault 35s but wanted to try out a different layout or whos prefered stagger was not traditional row stagger.
 
 ## Variants
 
