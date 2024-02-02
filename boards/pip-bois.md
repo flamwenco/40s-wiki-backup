@@ -2,7 +2,7 @@
 title: Pip Bois PCBs
 description: A breif description of the Pip Bois Vault35 keyboard PCBs and its variants, designed by jlw_ and calvin-mcd
 published: false
-date: 2024-02-02T03:51:53.393Z
+date: 2024-02-02T03:56:00.643Z
 tags: ortho, row stagger, katana, jlw_, alpha stagger, uniform stagger, treadstone stagger, calvin-mcd, vault 35
 editor: markdown
 dateCreated: 2024-02-02T03:43:12.035Z
@@ -17,13 +17,6 @@ The Pip Bois series of PCBs are several PCBs created by calvin-mcd and jlw_ and 
 
 ## Variants
 
-One of the first non-Cain designed/produced Vault35 case-compatible PCBs was the [Ortho Vault35](https://github.com/galvy0/vault35_ortho) by galvy0.
-
-Due to the popularity and crossover between 40% users and topre users, a 40% Keyboard Discord user named Calvin produced a Topre variant of the HHKB Vault35 PCB and designated it as the "Travaulta".
-
-Another 40% user by the name of jlw_ took it upon himself to design and produce a series of Vault35 PCBs by the name of "Pip Bois". Layout options included HHKB Universal, HHKB Katana, WKL Katana, WKL Ortho soldered, WKL Ortho hotswap, and WKL Universal. 
-
-This section is incomplete.
 
 ### Availability
 
