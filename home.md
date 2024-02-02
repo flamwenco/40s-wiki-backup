@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-07-01T00:22:09.336Z
+date: 2024-02-02T04:00:38.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -18,7 +18,7 @@ You can join the discord using our vanity link [https://discord.gg/40percent](ht
 
 ## So what is a 40 Percent?
 
-In the spirit of inclusiveness, there is no definition of a 40 Percent keyboard on this wiki. This is a very, **very**, hotly debated topic and this wiki is not the place to provide a clear distinction for what a 40 Percent keyboard is. On the other hand, the idea is to give you all of the information needed for you to make your own decision on what a 40 Percent is.
+There is no concrete definition of a 40 Percent keyboard on this wiki. This is a very, **very**, hotly debated topic and this wiki is not the place to provide a clear distinction for what a 40 Percent keyboard is. On the other hand, the idea is to give you all of the information needed for you to make your own decision on what a 40 Percent is.
 
 The most important part of 40 Percent keyboards is -  _**Small keyboard = good.**_
 
