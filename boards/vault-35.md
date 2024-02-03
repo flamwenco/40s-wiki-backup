@@ -2,7 +2,7 @@
 title: Vault 35
 description: A breif description of the Vault35 keyboard and its variants, originally designed by Cain of MechVault
 published: true
-date: 2024-02-02T03:51:15.192Z
+date: 2024-02-03T04:06:26.268Z
 tags: row stagger, 30s, 35%, cain bars, mechvault, vault 35
 editor: markdown
 dateCreated: 2024-02-01T06:53:06.852Z
@@ -20,7 +20,7 @@ One of the first non-Cain designed/produced Vault 35 case-compatible PCBs was th
 
 Due to the popularity and crossover between 40% users and topre users, a 40% Keyboard Discord user named Calvin produced a Topre variant of the HHKB Vault 35 PCB and designated it as the "Travaulta".
 
-Another 40% user by the name of jlw_ took it upon himself to design and produce a series of Vault35 PCBs by the name of "[Pip Bois](/boards/pip-bois)". Layout options included HHKB Universal, HHKB Katana, WKL Katana, WKL Ortho soldered, WKL Ortho hotswap, and WKL Universal. 
+Two other 40% users by the name of calvin-mcd and jlw_ took it upon theirselves to design and produce a series of Vault35 PCBs by the name of "[Pip Bois](/boards/pip-bois)". Layout options included HHKB Universal, HHKB Katana, WKL Katana, WKL Ortho soldered, WKL Ortho hotswap, and WKL Universal. 
 
 This section is incomplete.
 
