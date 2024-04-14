@@ -2,7 +2,7 @@
 title: Vault 35
 description: A breif description of the Vault35 keyboard and its variants, originally designed by Cain of MechVault
 published: true
-date: 2024-04-07T16:57:53.737Z
+date: 2024-04-14T18:19:06.468Z
 tags: row stagger, 30s, 35%, cain bars, mechvault, vault 35
 editor: markdown
 dateCreated: 2024-02-01T06:53:06.852Z
@@ -49,3 +49,4 @@ Asside from the cases that come with the Vault 35 kits, there are a few communit
 - [Vault35 MFR2](https://github.com/seirin-blu/Vault35-MFR2)
 - [FAT35](https://github.com/seirin-blu/Vault35-MFR2/blob/main/FAT35.stl)
 - [M0110 Vault 35](https://github.com/Ani919/M0110-case-for-vault35)
+- [Fault35](https://github.com/subottimale/Fault35)
