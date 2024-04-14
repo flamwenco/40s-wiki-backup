@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-04-14T18:07:06.769Z
+date: 2024-04-14T18:07:35.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -22,7 +22,7 @@ There is no concrete definition of a 40 Percent keyboard on this wiki. This is a
 
 The most important part of 40 Percent keyboards is -  _**Small keyboard = good.**_
 
-## Okay, so how do I get started?
+## How do I get started?
 
 This page is a great place to start! If you're new to the Mechanical Keyboard community as a whole (or are just interested in getting your first 40% board), check out the [introduction page](/Guides/Introduction)! If you're a veteran, consider joining the discord (and contribute to the wiki).
 
