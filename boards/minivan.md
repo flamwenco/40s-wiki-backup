@@ -1,9 +1,9 @@
 ---
 title: MiniVan
-description: A breif description of the MiniVan keyboard, originally designed by Evangs
+description: The MiniVan keyboard, originally designed by Evangs
 published: true
-date: 2024-04-20T19:15:59.441Z
-tags: minivan, 12.75, row stagger
+date: 2024-04-20T19:18:27.378Z
+tags: minivan, 12.75, row stagger, minisub
 editor: markdown
 dateCreated: 2023-07-08T18:45:13.373Z
 ---
