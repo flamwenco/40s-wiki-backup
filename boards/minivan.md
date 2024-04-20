@@ -2,7 +2,7 @@
 title: MiniVan
 description: The MiniVan keyboard, originally designed by Evangs
 published: true
-date: 2024-04-20T19:34:07.142Z
+date: 2024-04-20T19:34:22.177Z
 tags: minivan, 12.75, row stagger, minisub
 editor: markdown
 dateCreated: 2023-07-08T18:45:13.373Z
