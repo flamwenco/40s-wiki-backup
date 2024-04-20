@@ -1,8 +1,8 @@
 ---
-title: Corne
+title: corne
 description: Corne Keybaord
 published: true
-date: 2024-04-20T19:32:04.227Z
+date: 2024-04-20T19:32:31.101Z
 tags: split, column stagger
 editor: markdown
 dateCreated: 2023-02-08T19:49:55.536Z
