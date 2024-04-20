@@ -2,7 +2,7 @@
 title: Vault 35
 description: A breif description of the Vault35 keyboard and its variants, originally designed by Cain of MechVault
 published: true
-date: 2024-04-20T20:59:59.957Z
+date: 2024-04-20T22:11:49.890Z
 tags: row stagger, 30s, 35%, cain bars, mechvault, vault 35
 editor: markdown
 dateCreated: 2024-02-01T06:53:06.852Z
@@ -11,7 +11,7 @@ dateCreated: 2024-02-01T06:53:06.852Z
 # Vault 35
 
 A Vault 35 is a 35% percent keyboard created and sold by Cain of MechVault.
-
+![cain's_personal_vault_35.jpg](/image/cain's_personal_vault_35.jpg)
 ### Overview
 
 The hallmark of a Vault 35 is its 4u x 11u layout, small bezels, large blockers, and (usually) translucent case. The most popular variant of the Vault 35 is the [HHKB](https://hhkeyboard.us/blog/the-mystery-behind-the-ctrl-key-and-unique-hhkb-layout) layout. The first Vault 35 prototype that is similar to how it exists today was assembled sometime around September of 2021. In July of 2023, Cain posted a picture of his first functional prototype of a WKL Vault 35. This WKL Vault 35 was oddly enough in an aluminum case rather than the signature translucent cases that Vault 35s were nearly synonymous with. 
