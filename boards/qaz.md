@@ -2,7 +2,7 @@
 title: QAZ
 description: QAZ Keyboard by CBKBD
 published: true
-date: 2024-04-20T19:55:06.167Z
+date: 2024-04-20T22:14:40.120Z
 tags: row stagger, qaz
 editor: markdown
 dateCreated: 2023-02-08T20:41:09.610Z
@@ -12,11 +12,11 @@ dateCreated: 2023-02-08T20:41:09.610Z
 
 QAZ is a 35% keyboard, designed by tominabox1 and whydobearsxplod.
 
+![qaz.jpeg](/boards/images/qaz.jpeg =50%x)
+
 ### Overview
 
 The QAZ is a 4u x 10.25u keyboard. The original version of the QAZ was Pro Micro based, but subsequent revisions of it have an integrated microcontroller (ATM 32u4 or RP2040). 
-
-![qaz.jpeg](/boards/images/qaz.jpeg){.align-right}
 
 ### Variants & Layout
 
