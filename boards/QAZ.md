@@ -1,9 +1,9 @@
 ---
 title: QAZ
-description: Use this template for new keyboard pages
+description: QAZ Keyboard by CBKBD
 published: true
-date: 2024-04-20T19:53:22.850Z
-tags: 
+date: 2024-04-20T19:54:24.952Z
+tags: row stagger, qaz
 editor: markdown
 dateCreated: 2023-02-08T20:41:09.610Z
 ---
