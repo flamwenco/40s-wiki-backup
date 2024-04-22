@@ -2,7 +2,7 @@
 title: Bruce
 description: Bruce The Keyboard
 published: true
-date: 2024-04-22T01:30:54.686Z
+date: 2024-04-22T01:31:46.158Z
 tags: column stagger, 10u
 editor: markdown
 dateCreated: 2024-04-22T01:30:54.686Z
@@ -14,7 +14,8 @@ Bruce The Keyboard (designed by whydobearsxplod) is what a 10u column-stagger bo
 
 
 
-![A built Bruce in the Not a Human case with Black Doys keycaps by Chronomap](/brucebuilt.png)
+![A built Bruce in the Not a Human case with Black Doys keycaps](/brucebuilt.png)
+Build/photo by Chronomap
 ## Overview
 
 Bruce KLE is available [here](http://www.keyboard-layout-editor.com/#/gists/491b53b8d7af34b449eebfdcb2a253e2).
