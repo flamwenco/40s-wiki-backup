@@ -2,13 +2,13 @@
 title: Bruce
 description: Bruce The Keyboard
 published: true
-date: 2024-04-22T01:31:46.158Z
+date: 2024-04-25T01:13:28.682Z
 tags: column stagger, 10u
 editor: markdown
 dateCreated: 2024-04-22T01:30:54.686Z
 ---
 
-# Board Name
+# Bruce The Keyboard
 Bruce The Keyboard (designed by whydobearsxplod) is what a 10u column-stagger board would be if its keys were stretched so it fit into a rectangular footprint. It is important to note that Bruce The Keyboard is a keyboard and *not* a human.
 
 
