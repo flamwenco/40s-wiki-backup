@@ -2,7 +2,7 @@
 title: Le Chiffre
 description: 
 published: true
-date: 2024-02-01T07:39:30.852Z
+date: 2024-07-29T03:41:53.728Z
 tags: column stagger, rgb, unibody split, group buy, 10u, intergrated, open source
 editor: markdown
 dateCreated: 2023-02-08T19:50:24.661Z
@@ -16,7 +16,10 @@ Le Chiffre is a 30% columnar stagger board designed by tominabox1. It is a unibo
 
 ## Overview
 
-A KLE of the Le Chiffre is available [here](http://www.keyboard-layout-editor.com/#/gists/e44d1c29ae57ab7efbe544ebda2f427c). You can optionally install an OLED in the middle, and the middle key can be replaced with a rotary encoder. You can also choose not to install anything in the middle, and leave it plain. a
+A KLE of the Le Chiffre is available [here](http://www.keyboard-layout-editor.com/#/gists/e44d1c29ae57ab7efbe544ebda2f427c). You can optionally install an OLED in the middle, and the middle key can be replaced with a rotary encoder. You can also choose not to install anything in the middle, and leave it plain. 
+
+## Le Capybara
+An electrocapacitive (topre) version of Le chiffre exists, called Le Capybara. The capybara PCB natively supports 35 and 36-key layouts (splitting the 2u spacebars) and requires all of the associated Topre hardware. There is currently no reliable location to source a capybara PCB and plate.
 
 ## Availability
 
