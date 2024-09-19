@@ -2,7 +2,7 @@
 title: Introduction
 description: 
 published: true
-date: 2024-09-19T04:07:17.070Z
+date: 2024-09-19T04:09:22.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T20:41:18.790Z
@@ -48,7 +48,7 @@ Some of the good (widely available) options:
 
 *   [Planck](https://wiki.40percent.app/en/Boards/Planck): Around $100 for an aluminum case and a hot swap PCB. Great option for those curious about ortholinear layouts. You may also find a variant on [Drop.com](https://drop.com/buy/planck-mechanical-keyboard).
 *   Minivan (and minivan adjacent, like [Coffeevan](https://www.cbkbd.com/product/minivan-kits)): The mini-van layout is considered to be a great layout for those getting into 40%. Injection-molded cases and solder/hotswap PCBs are available at Coffee Break Keyboards.
-*   [QAZ](https://wiki.40percent.app/en/Boards/QAZ): Cheap, semi-in-stock option for the more daring of newcomers. Large variety of case options (3D printed and acrylic).
+*   [QAZ](/boards/qaz): Cheap, semi-in-stock option for the more daring of newcomers. Large variety of case options (3D printed and acrylic).
 *  	[Fruitbar](https://customkbd.com/products/fruitbar-r2?variant=44302706540768): A friendly 40% option designed to be compatible with normal base kits! Requires Soldering.
 *   [Prime E:](https://www.primekb.com/products/prime_e-rev-2-pcb) Good case availability from vendors in the community, good layout for those interested in unibody split/ergo/alice style layouts.
 *   [Corne](/boards/corne) A widely available introduction to column-stagger, Corne has enough keys as to not be too daunting for a newcomer, but still different enough to provide value over the pack.
