@@ -2,7 +2,7 @@
 title: Introduction
 description: 
 published: true
-date: 2023-07-01T00:22:46.282Z
+date: 2024-09-19T03:50:19.830Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T20:41:18.790Z
@@ -47,7 +47,7 @@ Like any hobby, there is a thriving after market for 40% mechanical keyboards. D
 Some of the good (widely available) options:
 
 *   [Planck](https://wiki.40percent.app/en/Boards/Planck): Around $100 for an aluminum case and a hot swap PCB. Great option for those curious about ortholinear layouts.
-*   Minivan (and minivan adjacent): The mini-van layout is considered to be a great layout for those getting into 40%. A major downside here is that PCBs are generally only available in the aftermarket and/or GBs. 3D printed cases are available.
+*   Minivan (and minivan adjacent, like [Coffeevan](https://www.cbkbd.com/product/minivan-kits)): The mini-van layout is considered to be a great layout for those getting into 40%. Injection-molded cases and solder/hotswap PCBs are available at Coffee Break Keyboards.
 *   [QAZ](https://wiki.40percent.app/en/Boards/QAZ): Cheap, in-stock option for the more daring of newcomers. Large variety of case options (3D printed and acrylic).
 *   Phoenix 45: Soon to be an instock 40% option at p3d store.
 *   TW40: Most friendly 40% option designed to be compatible with normal base kits.
