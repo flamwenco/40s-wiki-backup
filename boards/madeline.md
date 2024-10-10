@@ -2,7 +2,7 @@
 title: Madeline
 description: 
 published: true
-date: 2024-10-10T00:07:55.771Z
+date: 2024-10-10T00:09:37.019Z
 tags: row stagger, alice, 10.25u, knob
 editor: markdown
 dateCreated: 2024-10-06T18:50:12.739Z
@@ -28,7 +28,7 @@ Madeline is closed-source. 35 orders were placed during the group buy (which ran
 
 
 ## Group Buy Details
-Group buy was run on [RubyBuilds.com](https://shop.rubybuilds.com/). Units were manufactured and cerakoted in the US. Base GB price was USD$375 for your choice of color with an aluminum plate included.
+Group buy was run on [RubyBuilds.com](https://shop.rubybuilds.com/). Units were manufactured by [Van Dusen](https://www.vdmfg.com/) and cerakoted in the US. Base GB price was USD$375 for your choice of color with an aluminum plate included.
 
 The GB offered three Cerakote colors: 
 - Graphite Black
