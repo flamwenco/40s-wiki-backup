@@ -2,7 +2,7 @@
 title: Madeline
 description: 
 published: true
-date: 2024-10-07T01:31:23.027Z
+date: 2024-10-10T00:07:55.771Z
 tags: row stagger, alice, 10.25u, knob
 editor: markdown
 dateCreated: 2024-10-06T18:50:12.739Z
