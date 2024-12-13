@@ -2,7 +2,7 @@
 title: QAZ
 description: QAZ Keyboard by CBKBD
 published: true
-date: 2024-10-07T01:47:07.807Z
+date: 2024-10-07T01:47:12.050Z
 tags: row stagger, qaz, 10.25u
 editor: markdown
 dateCreated: 2023-02-08T20:41:09.610Z

@@ -2,7 +2,7 @@
 title: Vault 35
 description: A breif description of the Vault35 keyboard and its variants, originally designed by Cain of MechVault
 published: true
-date: 2024-04-20T22:15:28.111Z
+date: 2024-04-20T22:15:30.775Z
 tags: row stagger, 30s, 35%, cain bars, mechvault, vault 35
 editor: markdown
 dateCreated: 2024-02-01T06:53:06.852Z

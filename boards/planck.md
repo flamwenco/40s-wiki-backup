@@ -2,7 +2,7 @@
 title: Planck
 description: The Planck keyboard by OLKB
 published: true
-date: 2024-04-20T20:13:55.186Z
+date: 2024-04-20T20:13:57.543Z
 tags: ortho, planck
 editor: markdown
 dateCreated: 2023-02-08T19:50:32.466Z
