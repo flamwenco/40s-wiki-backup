@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:04:29.667Z
+date: 2025-01-19T21:10:40.631Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -20,6 +20,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - 40rmie
 - Acai
 - Adelie
+- Alpha28
+- Alphaalpha+
 - Ampersand
 - Arrow40
 - Asymptote (PCB)
@@ -53,6 +55,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Edinburgh41
 - Eightu
 - Evelyn
+- FAT35 (Case)
 - [Ferris](/boards/ferris)
 - Fish
 - FistBNMP (PCB)
@@ -90,18 +93,20 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Medly
 - Menhir
 - Mercutio
+- MF2 (Case)
 - Minisub (PCB)
 - [MiniVan](/boards/minivan)
 - Murphpad
 - Nitwimp45
 - Paintbrush
+- Pandemonium
 - Pip Boi (PCB)
 - [Planck](/boards/planck)
 - Powerhouse 40
 - [Prime_E](/boards/Prime_E)
 - Program Yoink
 - [QAZ](/boards/qaz)
-- qazikat
+- Qazikat
 - QAZket
 - Qazimodo
 - Quark
