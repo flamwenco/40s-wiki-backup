@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T20:59:09.717Z
+date: 2025-01-19T21:00:08.606Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
