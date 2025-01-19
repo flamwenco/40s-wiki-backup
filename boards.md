@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:00:08.606Z
+date: 2025-01-19T21:02:07.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -62,6 +62,7 @@ This page also serves as a To-Do List. If there ia a board listed below with no 
 - Grumpy
 - Haitun
 - Humble40
+- Idobao ID42
 - Industry
 - Infernum
 - Isometric
