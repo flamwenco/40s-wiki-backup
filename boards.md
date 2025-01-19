@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T20:38:12.453Z
+date: 2025-01-19T20:56:10.008Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -10,65 +10,95 @@ dateCreated: 2025-01-19T20:23:55.988Z
 
 # List of 40% Keyboards
 Below is a list of known 40 percent keyboards. If you add a board to this list, please keep in mind that this list is sorted alphabetically.
+- #34
+- 2% Milk
 - 39.99 Percent
+- 40rmie
 - Acai
+- Ampersand
 - Arrow40
-- BaulT
+- Asymptote (PCB)
+- Babier-V
+- BaulT (PCB)
+- Blank Slate (PCB)
 - Brane
 - Brane Minus
 - [Bruce](/boards/Bruce)
+- Bally (PCB)
+- Bully
 - Burle
+- C0V3R
+- Candybar
+- ChonkyKong
 - Chop Shop
 - Clunker
 - [Corne](/boards/corne)
 - Curio
+- Cutiepie
 - DD-40
 - Detour
 - Dimple
 - Dogbone
 - Draculad and Draculady
 - Dubba175
-- Duo 
+- Duo
+- Duodecimal
 - Easel
 - Edinburgh41
 - Eightu
 - Evelyn
 - [Ferris](/boards/ferris)
 - Fish
+- FistBNMP (PCB)
 - Fruitbar
+- Garbage Truck
+- Good Delivery (PCB)
 - Gravestone
 - Grumpy
 - Haitun
 - Humble40
+- Industry
 - Infernum
 - Isometric
 - Klor
 - Klotz
 - [Kyria](/boards/kyria)
 - La Lettre
+- La Somme
+- Le Capybara (PCB)
 - [Le Chiffre](/boards/le_chiffre)
+- Le JLWiffre
 - Le Oeuf
+- Lesovoz
+- Lets Split
+- Lets Tango
 - Littol
 - Loco40
 - Machida
 - [Madeline](/boards/madeline)
+- Masonry
 - Medly
 - Menhir
-- Minisub
+- Minisub (PCB)
 - [MiniVan](/boards/minivan)
 - Murphpad
 - Nitwimp45
 - Paintbrush
-- Pip Boi
+- Pip Boi (PCB)
 - [Planck](/boards/planck)
 - Powerhouse 40
 - [Prime_E](/boards/Prime_E)
 - Program Yoink
 - [QAZ](/boards/qaz)
+- qazikat
 - QAZket
 - Qazimodo
 - Quark
+- Rescue Truck (PCB)
 - S46
+- Scotto44
+- Shambles
+- SK Vault 35 (Case)
 - Space Space
 - Sugar Glider
 - Tanuki
@@ -83,4 +113,5 @@ Below is a list of known 40 percent keyboards. If you add a board to this list, 
 - Vault 35 MFR2 (Case)
 - [UT472](/boards/ut472)
 - uwu30
+- Wellenphase
 - Wolfjaw
