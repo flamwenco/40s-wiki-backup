@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:34:24.824Z
+date: 2025-01-19T21:37:11.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -53,6 +53,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Candybar
 - Charybdis Nano
 - Cheerz
+- Chimera/Limousine (PCB)
 - ChonkyKong
 - Chop Shop
 - Circe
@@ -185,6 +186,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Space Space
 - Suffer
 - Sugar Glider
+- Sweep
+- Sweeq
 
 #### T
 - Taco Truck
