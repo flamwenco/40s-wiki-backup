@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:16:52.195Z
+date: 2025-01-19T21:17:45.222Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -101,6 +101,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - MF2 (Case)
 - Minisub (PCB)
 - [MiniVan](/boards/minivan)
+- Mochi40
 - Murphpad
 - Nitwimp45
 - Paintbrush
@@ -138,6 +139,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Vault 35 MFR2 (Case)
 - [UT472](/boards/ut472)
 - uwu30
+- uwu40
 - Waterfowl
 - Wellenphase
 - Wolfjaw
