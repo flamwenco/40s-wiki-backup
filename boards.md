@@ -2,7 +2,7 @@
 title: Boards
 description: A list of known 40s and links to their pages
 published: true
-date: 2025-01-19T20:29:36.416Z
+date: 2025-01-19T20:31:56.288Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -21,22 +21,29 @@ Below is a list of known 40 percent keyboards. If you add a board to this list, 
 - Chop Shop
 - Clunker
 - [Corne](/boards/corne)
+- Curio
 - DD-40
 - Detour
+- Dimple
 - Dogbone
 - Draculad and Draculady
 - Dubba175
+- Duo 
 - Easel
 - Edinburgh41
 - Eightu
 - Evelyn
 - [Ferris](/boards/ferris)
+- Fish
 - Fruitbar
 - Gravestone
 - Grumpy
+- Haitun
 - Humble40
 - Infernum
 - Isometric
+- Klor
+- Klotz
 - [Kyria](/boards/kyria)
 - La Lettre
 - [Le Chiffre](/boards/le_chiffre)
@@ -59,12 +66,14 @@ Below is a list of known 40 percent keyboards. If you add a board to this list, 
 - QAZket
 - Qazimodo
 - Quark
+- S46
 - Space Space
 - Sugar Glider
 - Tanuki
 - The Ave
 - The Log
 - Totem
+- TPS40
 - Treasure Type 30
 - Tsuru
 - [V4N4GON](/boards/v4n4g0n)
