@@ -1,8 +1,8 @@
 ---
-title: Boards
-description: A list of known 40s and links to their pages
+title: 40% Keyboards
+description: A list of known 40s
 published: true
-date: 2025-01-19T20:34:34.628Z
+date: 2025-01-19T20:35:55.875Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
