@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:26:52.774Z
+date: 2025-01-19T21:34:24.824Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -28,7 +28,9 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Adelie
 - Alpha28
 - Alphaalpha+
+- Altair-X
 - Ampersand
+- Apricot
 - Arrow40
 - Asymptote (PCB)
 
@@ -46,11 +48,15 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### C
 - C0V3R
+- Cajal
+- Campsite
 - Candybar
 - Charybdis Nano
 - Cheerz
 - ChonkyKong
 - Chop Shop
+- Circe
+- Cisne
 - Cloud
 - Clunker
 - [Corne](/boards/corne)
@@ -71,6 +77,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Easel
 - Edinburgh41
 - Eightu
+- Embrace
 - Evelyn
 
 #### F
@@ -78,6 +85,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - [Ferris](/boards/ferris)
 - Fish
 - FistBNMP (PCB)
+- Fourier
 - Fruitbar
 
 #### G
@@ -91,6 +99,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 #### H
 - Haitun
 - Humble40
+- Hydra
 - Hyper40
 
 #### I
@@ -123,6 +132,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### M
 - Machida
+- MB44
+- MB-TKL
 - [Madeline](/boards/madeline)
 - Masonry
 - Medly
@@ -138,17 +149,22 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Nitwimp45
 
 #### O
+- Oceanographer
 
 #### P
 - Paintbrush
 - Pandemonium
+- Pegasus
 - Pip Boi (PCB)
 - [Planck](/boards/planck)
+- Plasticity
+- Pomelo
 - Powerhouse 40
 - [Prime_E](/boards/Prime_E)
 - Program Yoink
 
 #### Q
+- Q9
 - [QAZ](/boards/qaz)
 - Qazikat
 - Qazimodo
@@ -158,13 +174,16 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### R
 - Rescue Truck (PCB)
+- Romeo
 
 #### S
 - S46
+- Scandivan (PCB)
 - Scotto44
 - Shambles
 - SK Vault 35 (Case)
 - Space Space
+- Suffer
 - Sugar Glider
 
 #### T
@@ -197,6 +216,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 #### X
 
 #### Y
+- Yak40
 
 #### Z
 - zan40
