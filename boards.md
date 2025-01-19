@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T20:37:18.626Z
+date: 2025-01-19T20:38:12.453Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -63,6 +63,7 @@ Below is a list of known 40 percent keyboards. If you add a board to this list, 
 - [Planck](/boards/planck)
 - Powerhouse 40
 - [Prime_E](/boards/Prime_E)
+- Program Yoink
 - [QAZ](/boards/qaz)
 - QAZket
 - Qazimodo
