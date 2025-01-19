@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T20:35:55.875Z
+date: 2025-01-19T20:37:18.626Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -54,6 +54,7 @@ Below is a list of known 40 percent keyboards. If you add a board to this list, 
 - [Madeline](/boards/madeline)
 - Medly
 - Menhir
+- Minisub
 - [MiniVan](/boards/minivan)
 - Murphpad
 - Nitwimp45
