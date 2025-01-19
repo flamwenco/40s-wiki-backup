@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:02:07.592Z
+date: 2025-01-19T21:02:18.817Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -11,7 +11,7 @@ dateCreated: 2025-01-19T20:23:55.988Z
 # List of 40% Keyboards
 Below is a list of known 40 percent keyboards. If you add a board to this list, please keep in mind that this list is sorted alphabetically.
 
-This page also serves as a To-Do List. If there ia a board listed below with no link, feel free to make a page for it.
+This page also serves as a To-Do List. If there is a board listed below with no link, feel free to make a page for it.
 
 ### Boards
 - #34
