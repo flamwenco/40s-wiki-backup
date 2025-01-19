@@ -2,13 +2,14 @@
 title: Boards
 description: A list of known 40s and links to their pages
 published: true
-date: 2025-01-19T20:24:32.357Z
+date: 2025-01-19T20:29:36.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
 ---
 
-# Header
+# List of 40% Keyboards
+Below is a list of known 40 percent keyboards. If you add a board to this list, please keep in mind that this list is sorted alphabetically.
 - 39.99 Percent
 - Acai
 - Arrow40
@@ -28,10 +29,13 @@ dateCreated: 2025-01-19T20:23:55.988Z
 - Easel
 - Edinburgh41
 - Eightu
+- Evelyn
 - [Ferris](/boards/ferris)
 - Fruitbar
 - Gravestone
+- Grumpy
 - Humble40
+- Infernum
 - Isometric
 - [Kyria](/boards/kyria)
 - La Lettre
@@ -60,9 +64,12 @@ dateCreated: 2025-01-19T20:23:55.988Z
 - Tanuki
 - The Ave
 - The Log
+- Totem
 - Treasure Type 30
+- Tsuru
 - [V4N4GON](/boards/v4n4g0n)
 - [Vault 35](/boards/vault-35)
 - Vault 35 MFR2 (Case)
 - [UT472](/boards/ut472)
 - uwu30
+- Wolfjaw
