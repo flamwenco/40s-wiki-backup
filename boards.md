@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:02:18.817Z
+date: 2025-01-19T21:04:06.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -34,6 +34,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Burle
 - C0V3R
 - Candybar
+- Charybdis Nano
 - ChonkyKong
 - Chop Shop
 - Clunker
@@ -62,6 +63,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Grumpy
 - Haitun
 - Humble40
+- Hyper40
 - Idobao ID42
 - Industry
 - Infernum
@@ -87,6 +89,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Masonry
 - Medly
 - Menhir
+- Mercutio
 - Minisub (PCB)
 - [MiniVan](/boards/minivan)
 - Murphpad
@@ -109,6 +112,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - SK Vault 35 (Case)
 - Space Space
 - Sugar Glider
+- Taco Truck
+- Tako
 - Tanuki
 - The Ave
 - The Log
