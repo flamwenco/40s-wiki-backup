@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:04:06.176Z
+date: 2025-01-19T21:04:29.667Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -28,7 +28,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Blank Slate (PCB)
 - Brane
 - Brane Minus
-- [Bruce](/boards/Bruce)
+- [Bruce](/boards/Bruce) (PCB)
 - Bally (PCB)
 - Bully
 - Burle
