@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:10:40.631Z
+date: 2025-01-19T21:14:41.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -15,6 +15,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 ### Boards
 - #34
+- _33
 - 2% Milk
 - 39.99 Percent
 - 40rmie
@@ -28,6 +29,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Babier-V
 - BaulT (PCB)
 - Blank Slate (PCB)
+- Bolt
 - Brane
 - Brane Minus
 - [Bruce](/boards/Bruce) (PCB)
@@ -37,8 +39,10 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - C0V3R
 - Candybar
 - Charybdis Nano
+- Cheerz
 - ChonkyKong
 - Chop Shop
+- Cloud
 - Clunker
 - [Corne](/boards/corne)
 - Curio
@@ -61,6 +65,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - FistBNMP (PCB)
 - Fruitbar
 - Garbage Truck
+- GB34
 - Good Delivery (PCB)
 - Gravestone
 - Grumpy
@@ -122,6 +127,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Tanuki
 - The Ave
 - The Log
+- TK40X
 - Totem
 - TPS40
 - Treasure Type 30
@@ -134,3 +140,4 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Waterfowl
 - Wellenphase
 - Wolfjaw
+- zan40
