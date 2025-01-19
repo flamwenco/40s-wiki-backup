@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T20:57:32.695Z
+date: 2025-01-19T20:59:09.717Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -19,6 +19,7 @@ This page also serves as a To-Do List. If there ia a board listed below with no 
 - 39.99 Percent
 - 40rmie
 - Acai
+- Adelie
 - Ampersand
 - Arrow40
 - Asymptote (PCB)
@@ -64,6 +65,7 @@ This page also serves as a To-Do List. If there ia a board listed below with no 
 - Industry
 - Infernum
 - Isometric
+- Karina
 - Klor
 - Klotz
 - [Kyria](/boards/kyria)
@@ -73,7 +75,8 @@ This page also serves as a To-Do List. If there ia a board listed below with no 
 - [Le Chiffre](/boards/le_chiffre)
 - Le JLWiffre
 - Le Oeuf
-- Lesovoz
+- Lesovoz (PCB)
+- Lestmovoz (PCB)
 - Lets Split
 - Lets Tango
 - Littol
@@ -117,5 +120,6 @@ This page also serves as a To-Do List. If there ia a board listed below with no 
 - Vault 35 MFR2 (Case)
 - [UT472](/boards/ut472)
 - uwu30
+- Waterfowl
 - Wellenphase
 - Wolfjaw
