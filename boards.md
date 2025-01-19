@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T21:18:16.201Z
+date: 2025-01-19T21:22:43.282Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -14,11 +14,16 @@ Below is a list of known 40 percent keyboards. If you add a board to this list, 
 This page also serves as a To-Do List. If there is a board listed below with no link, feel free to make a page for it.
 
 ### Boards
+
+
+#### Number Names
 - #34
 - _33
 - 2% Milk
 - 39.99 Percent
 - 40rmie
+
+#### A
 - Acai
 - Adelie
 - Alpha28
@@ -26,6 +31,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Ampersand
 - Arrow40
 - Asymptote (PCB)
+
+#### B
 - Babier-V
 - BaulT (PCB)
 - Blank Slate (PCB)
@@ -36,6 +43,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Bally (PCB)
 - Bully
 - Burle
+
+#### C
 - C0V3R
 - Candybar
 - Charybdis Nano
@@ -47,6 +56,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - [Corne](/boards/corne)
 - Curio
 - Cutiepie
+
+#### D
 - DD-40
 - Detour
 - Dimple
@@ -55,31 +66,47 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Dubba175
 - Duo
 - Duodecimal
+
+#### E
 - Easel
 - Edinburgh41
 - Eightu
 - Evelyn
+
+#### F
 - FAT35 (Case)
 - [Ferris](/boards/ferris)
 - Fish
 - FistBNMP (PCB)
 - Fruitbar
+
+#### G
 - Garbage Truck
 - GB34
 - Good Delivery (PCB)
 - Gravestone
 - Grumpy
+
+#### H
 - Haitun
 - Humble40
 - Hyper40
+
+#### I
 - Idobao ID42
 - Industry
 - Infernum
 - Isometric
+
+#### J
+
+#### K
 - Karina
 - Klor
 - Klotz
 - [Kyria](/boards/kyria)
+
+#### L
 - La Lettre
 - La Somme
 - Le Capybara (PCB)
@@ -92,6 +119,8 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Lets Tango
 - Littol
 - Loco40
+
+#### M
 - Machida
 - [Madeline](/boards/madeline)
 - Masonry
@@ -103,7 +132,13 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - [MiniVan](/boards/minivan)
 - Mochi40
 - Murphpad
+
+#### N
 - Nitwimp45
+
+#### O
+
+#### P
 - Paintbrush
 - Pandemonium
 - Pip Boi (PCB)
@@ -111,19 +146,27 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Powerhouse 40
 - [Prime_E](/boards/Prime_E)
 - Program Yoink
+
+#### Q
 - [QAZ](/boards/qaz)
 - Qazikat
 - Qazimodo
 - QAZket
 - QAZpad
 - Quark
+
+#### R
 - Rescue Truck (PCB)
+
+#### S
 - S46
 - Scotto44
 - Shambles
 - SK Vault 35 (Case)
 - Space Space
 - Sugar Glider
+
+#### T
 - Taco Truck
 - Tako
 - Tanuki
@@ -134,13 +177,25 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - TPS40
 - Treasure Type 30
 - Tsuru
-- [V4N4GON](/boards/v4n4g0n)
-- [Vault 35](/boards/vault-35)
-- Vault 35 MFR2 (Case)
+
+#### U
 - [UT472](/boards/ut472)
 - uwu30
 - uwu40
+
+#### V
+- [V4N4GON](/boards/v4n4g0n)
+- [Vault 35](/boards/vault-35)
+- Vault 35 MFR2 (Case)
+
+### W
 - Waterfowl
 - Wellenphase
 - Wolfjaw
+
+#### X
+
+#### Y
+
+#### Z
 - zan40
