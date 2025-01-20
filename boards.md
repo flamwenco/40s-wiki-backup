@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-20T21:23:32.593Z
+date: 2025-01-20T21:30:41.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -165,6 +165,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Minisub (PCB)
 - [MiniVan](/boards/minivan)
 - Mochi40
+- Monorail
 - Murphpad
 
 #### N
