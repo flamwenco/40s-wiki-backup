@@ -1,15 +1,15 @@
 ---
 title: Vendors
-description: A list of vendors that sell 40% keybords followed by a breif description of what they sell
+description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2025-01-20T21:51:54.024Z
+date: 2025-01-20T21:53:47.720Z
 tags: vendors, vendor
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
 ---
 
 # Vendors
-A list of vendors that sell 40% keybords followed by a breif description of what they sell
+A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 
 ### [Coffee Break Keyboards (CBKBD)](https://www.cbkbd.com)
 US based vendor selling only 40s products. Noteworthy boards sold include [QAZ](/boards/qaz) and [Coffeevan](/boards/coffeevan).
