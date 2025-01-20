@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-20T04:40:04.003Z
+date: 2025-01-20T21:14:17.262Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -26,6 +26,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 #### A
 - Acai
 - Adelie
+- Alloy40
 - Alpha28
 - Alphaalpha+
 - Altair-X
@@ -36,13 +37,14 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### B
 - Babier-V
+- Bally (PCB)
 - BaulT (PCB)
+- Big Dill Extended
 - Blank Slate (PCB)
 - Bolt
 - Brane
 - Brane Minus
 - [Bruce](/boards/Bruce) (PCB)
-- Bally (PCB)
 - Bully
 - Burle
 
@@ -51,24 +53,30 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Cajal
 - Campsite
 - Candybar
+- Chalice
 - Charybdis Nano
 - Cheerz
 - Chimera/Limousine (PCB)
+- Choc V
 - ChonkyKong
 - Chop Shop
 - Circe
 - Cisne
 - Cloud
 - Clunker
+- Contra
 - [Corne](/boards/corne)
 - Curio
 - Cutiepie
 
 #### D
 - DD-40
+- Delta 50%
 - Detour
+- Dilly 
 - Dimple
 - Dogbone
+- DPS40
 - Draculad and Draculady
 - Dubba175
 - Duo
@@ -79,6 +87,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Edinburgh41
 - Eightu
 - Embrace
+- Equals 48
 - Evelyn
 
 #### F
@@ -92,6 +101,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 #### G
 - Garbage Truck
 - GB34
+- Gherkin
 - Good Delivery (PCB)
 - Gravestone
 - Gridiron
@@ -100,22 +110,27 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### H
 - Haitun
+- Helix (PCB)
 - Humble40
 - Hydra
 - Hyper40
 
 #### I
 - Idobao ID42
+- Idobao GQ40
 - Industry
 - Infernum
+- Inland 47
 - Isometric
 
 #### J
+- Jerkin
 
 #### K
 - Karina
 - Klor
 - Klotz
+- Kontro
 - kookabura
 - [Kyria](/boards/kyria)
 
@@ -130,6 +145,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Lestmovoz (PCB)
 - Lets Split
 - Lets Tango
+- Levinson
 - Littol
 - Loco40
 
@@ -143,12 +159,15 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Menhir
 - Mercutio
 - MF2 (Case)
+- Microdox
+- MiniNova
 - Minisub (PCB)
 - [MiniVan](/boards/minivan)
 - Mochi40
 - Murphpad
 
 #### N
+- Naked48LED
 - Nitwimp45
 
 #### O
@@ -159,6 +178,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Paintbrush
 - Pandemonium
 - Pegasus
+- Pinky3 (PCB)
 - Pip Boi (PCB)
 - [Planck](/boards/planck)
 - Plasticity
@@ -178,6 +198,10 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### R
 - Rescue Truck (PCB)
+- Reviung34 
+- Reviung39
+- Reviung41 
+- Rhymestone
 - Romeo
 
 #### S
@@ -196,13 +220,21 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Taco Truck
 - Tako
 - Tanuki
+- Technik
+- Technikable
+- TG4X
+- THE30
+- THE40
+- THE50
 - The Ave
+- The Compensator
 - The Log
 - TK40X
 - Totem
 - TPS40
 - Treasure Type 30
 - Tsuru
+- Type-30
 
 #### U
 - [UT472](/boards/ut472)
