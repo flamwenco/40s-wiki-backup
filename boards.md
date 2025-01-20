@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-20T21:30:41.612Z
+date: 2025-01-20T21:46:53.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -181,7 +181,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Pandemonium
 - Pegasus
 - Pinky3 (PCB)
-- Pip Boi (PCB)
+- Pip Boys (PCB)
 - [Planck](/boards/planck)
 - Plasticity
 - Pomelo
