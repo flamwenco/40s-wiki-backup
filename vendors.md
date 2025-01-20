@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2025-01-20T21:53:47.720Z
+date: 2025-01-20T22:21:45.458Z
 tags: vendors, vendor
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -31,6 +31,9 @@ US based vendor selling only 40s products. Noteworthy boards sold include [Monor
 
 ### [MechVault](https://mechvault.net/)
 US based vendor selling only 40s products. Noteworthy boards sold include [Vault 35](/boards/vault-35), [Vault 16](/boards/vault-16), and [Oracle](/boards/oracle).
+
+### [MechWild](https://mechwild.com/)
+US based vendor selling 40s and larger products. Noteworthy boards sold include [Mercutio](/boards/mercutio), [Big Dill Extended](/boards/big-dill-extended), and [Clunker](/boards/clunker).
 
 ### [Ringer Keys](https://ringerkeys.com/)
 US based vendor selling primarily 40s products and keyboard parts. 
