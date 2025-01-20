@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-19T23:28:25.708Z
+date: 2025-01-20T04:40:04.003Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -116,6 +116,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Karina
 - Klor
 - Klotz
+- kookabura
 - [Kyria](/boards/kyria)
 
 #### L
@@ -152,6 +153,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### O
 - Oceanographer
+- Oracle
 
 #### P
 - Paintbrush
