@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-22T21:10:47.893Z
+date: 2025-01-22T21:11:46.769Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -40,7 +40,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Bally (PCB)
 - BaulT (PCB)
 - Big Dill Extended
-- Blank Slate (PCB)
+- [Blank Slate (PCB)](/boards/blankslate)
 - Bolt
 - Brane
 - Brane Minus
@@ -62,7 +62,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Chop Shop
 - Circe
 - Cisne
-- Claudia
+- [Claudia](/boards/claudia)
 - Cloud
 - Clunker
 - Coffeevan (PCB)
