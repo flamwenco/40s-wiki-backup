@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-22T18:27:38.012Z
+date: 2025-01-22T21:10:47.893Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -80,7 +80,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Dogbone
 - DPS40
 - Draculad and Draculady
-- Dubba175
+- [Dubba175](/boards/dubba175)
 - Duo
 - Duodecimal
 
