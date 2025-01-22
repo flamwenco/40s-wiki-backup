@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2025-01-20T21:50:05.518Z
+date: 2025-01-22T18:27:38.012Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -62,6 +62,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Chop Shop
 - Circe
 - Cisne
+- Claudia
 - Cloud
 - Clunker
 - Coffeevan (PCB)
@@ -104,6 +105,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - GB34
 - Gherkin
 - Good Delivery (PCB)
+- Gothic50
 - Gravestone
 - Gridiron
 - Grouper
