@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T10:38:12.670Z
+date: 2025-01-31T10:40:39.743Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -62,8 +62,7 @@ As a complete example, the Hillside's default keymap illustrates the simpler key
 - Thumb keys give easy access to a few additional layers.
 - The added layers have
     - frequent navigation and editing keys on the home row of a nav/edit layer,
-    - symbols and numbers in familiar locations,
-    -	function keys intuitively arranged.
+    - symbols, numbers, and function keys in familiar locations.
 
 The keymap provides familiar elements for easier initial use but also more efficient layer-based alternatives that can be grown into. The [KeymapDB](https://keymapdb.com/) has additional keymap examples for different board size, shape, preferences and needs. Some additional layering techniques used with much smaller boards are described in [How](/how).
 
