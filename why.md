@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T09:36:53.923Z
+date: 2025-01-31T09:47:11.049Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-10T02:11:43.144Z
 
 Work in progress, edits pending.
 
-### Three general reasons
+## Three general reasons
 
 People have different keyboard needs, but some common reasons for using a 40% board include:
 
@@ -26,7 +26,7 @@ Tailoring for the needs at hand is elegant. If you normally type mostly letters,
 
 Good layering can make small boards more efficient than large unlayered ones. Layers let keys do multiple jobs based on the other keys that are also pressed, just like the normal shift key does. Using 'shifted' layers for more than just capital letters means many keyboard uses can be done efficiently with just the keys next to the fingers, including writing programs or novels. Using a large unlayered board means reaching further for keys that layers can put right under the fingers.
 
-### Why use a layered 40% keyboard?
+## Why use a layered 40% keyboard?
 
 On a common laptop-sized keyboard, just under half of the keys require stretching or moving the hands followed by reorienting back to the home row, including distant yet common keys such as the arrow and delete keys. That reaching and reorienting is slow and can lead to hand issues.
 
@@ -40,7 +40,7 @@ Pressing a combination of easy-to-reach keys can be faster and easier than reach
 
 Once effective layering is used, similar full-size keyboards are unneeded bulk and expense.
 
-### Size and type
+## Size and type
 
 Preferred board sizes vary, but four rows and 12 to 13 keys wide (12u-13u) is common. This is an easier size to start with, and many people find no reason to go smaller later. This size keeps the letters and outer columns (shift, delete, and return) on the base layer, with a bottom row of central thumb keys for space, layers and modifiers, and possible side utility keys for arrows or extras. It means the fingers never need to move far and allows a simple layering scheme. Narrower boards, such as ten keys wide, further reduce finger reach and size, but require more complex layering methods. Some of these techniques are described in [How](/how). 
 
@@ -50,7 +50,7 @@ Many small keyboard users are programmers, a group that is often typing or editi
 
 In the end, small keyboards are a collection of choices and trade-offs about people's individual situation, typing, and hands.
 
-### Example keymap
+## Example keymap
 
 As a complete example, the Hillside's default keymap illustrates the simpler keymap techniques found among 40% keyboards.
 
