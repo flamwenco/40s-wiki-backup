@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T17:39:05.454Z
+date: 2025-01-31T17:43:08.984Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -38,7 +38,7 @@ A simple 40% keymap has two new layers and two new layer-shift keys. Holding one
 
 Pressing a combination of easy-to-reach keys can be faster and easier than reaching for a distant key. Access can be by: pressing the layer-shift and base keys together, in sequence, or with other options. The user can customize which characters, strings or functions are on the base layer and how they access those on other layers. Common choices include: a number pad, richer navigation and editing on a dedicated layer, or a leader key that outputs text snippets from short prefixes.
 
-Layering is a tradeoff between some cognitive complexity of accessing additional layers vs having more keys within closer reach. Either because that makes the keys more accessible or because only a few keys fit in some space. Where on that spectrum is best depends on the situation.
+Layering is a tradeoff between some cognitive complexity of accessing additional layers vs having more keys within closer reach. Either because that makes the keys more accessible or because only a few keys fit in some space. Where on that tradeoff spectrum is best depends on the situation.
 
 Once effective layering is used, similar full-size keyboards are unneeded bulk and expense.
 
