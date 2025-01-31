@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T17:43:08.984Z
+date: 2025-01-31T20:05:00.269Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -30,15 +30,15 @@ Good layering can make small boards more efficient than large unlayered ones. La
 
 On a common laptop-sized keyboard, just under half of the keys require stretching or moving the hands followed by reorienting back to the home row, including distant yet common keys such as the arrow and delete keys. That reaching and reorienting is slow and can lead to hand issues.
 
-Forty-percent keyboards reduce finger and hand stretch by moving some keys onto added layers right under the fingers. Full-size keyboards already do this by using the shift key for both capital letters and most of the symbols. Most people don't use huge keyboards with separate keys for the capital letters and extra symbols. Instead they use a shift key as a layer key. Forty-percent keyboards apply the same idea to a smaller set of base keys. They often use just the letter area plus side columns, with the keyboard often have just four rows.
+Forty-percent keyboards reduce finger and hand stretch by moving some keys onto added layers right under the fingers. Full-size keyboards already do this by using the shift key for both capital letters and most of the symbols. Most people don't use huge keyboards with separate keys for the capital letters and extra symbols. Instead they use a shift-layer key. Forty-percent keyboards apply the same idea to a smaller set of base keys. They often use just the letter area plus side columns, with the keyboard often having just four rows.
 
-A simple 40% keymap has two new layers and two new layer-shift keys. Holding one layer key accesses a layer with navigation, editing, numbers, and functions; holding the other accesses a layer with symbols.
+A simple 40% keymap has two new layers and two new layer access keys. Holding one layer key accesses a layer with navigation, editing, numbers, and functions; holding the other accesses a layer with symbols.
 
 ![why_layers_demo.drawio.png](/image/why_layers_demo.drawio.png)
 
-Pressing a combination of easy-to-reach keys can be faster and easier than reaching for a distant key. Access can be by: pressing the layer-shift and base keys together, in sequence, or with other options. The user can customize which characters, strings or functions are on the base layer and how they access those on other layers. Common choices include: a number pad, richer navigation and editing on a dedicated layer, or a leader key that outputs text snippets from short prefixes.
+Pressing a combination of easy-to-reach keys can be faster and easier than reaching for a distant key. Access can be by: pressing the layer-access and base keys together, in sequence, or with other options. The user can customize which characters, strings or functions are on the base layer and how they access those on other layers. Common choices include: a number pad, richer navigation and editing on a dedicated layer, or a leader key that outputs text snippets from short prefixes.
 
-Layering is a tradeoff between some cognitive complexity of accessing additional layers vs having more keys within closer reach. Either because that makes the keys more accessible or because only a few keys fit in some space. Where on that tradeoff spectrum is best depends on the situation.
+Layering is a tradeoff between some cognitive complexity of accessing additional layers vs having more keys within closer reach. Either because that makes the keys more accessible or because only a few keys fit in some space. Where in that tradeoff space is best depends on the situation.
 
 Once effective layering is used, similar full-size keyboards are unneeded bulk and expense.
 
