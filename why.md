@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T11:55:02.059Z
+date: 2025-01-31T12:10:00.978Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -48,7 +48,7 @@ Many small keyboard users are programmers, a group that is often typing or editi
 
 Preferred board sizes vary, but four rows and 12 to 13 keys wide (12u-13u) is common. This is an easier size to start with, and many people find no reason to go smaller later. This size keeps the letters and outer columns (shift, delete, and return) on the base layer, with a bottom row of central thumb keys for space, layers and modifiers, and possible side utility keys for arrows or extras. It means the fingers never need to move far and allows a simple layering scheme. Narrower boards, such as ten keys wide, further reduce finger reach and size, but require more complex layering methods. Some of these methods are described in [How](/how). 
 
-Preferences also vary on how the physical keys are arranged: between row stagger, ortho-linear, or ergo/column stagger and between unibody or split case bodies. Within full-sized keyboards, some arrangements are more common generally, while others are more common within high-end ergonomic boards.
+Preferences also vary on how the physical keys are arranged: between row stagger, ortho-linear, or ergo/column stagger and between unibody or split case bodies. Within full-sized keyboards, some of those arrangements are more common generally, while others are more common within high-end ergonomic boards.
 
 In the end, small keyboards are a collection of choices and trade-offs about people's individual situation, typing, and hands.
 
