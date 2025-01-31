@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T07:50:54.164Z
+date: 2025-01-31T08:21:53.397Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -50,6 +50,17 @@ In the end, small keyboards are a collection of choices and trade-offs about peo
 
 ### Example keymap
 
-As an example, the Hillside's default keymap has the core parts of familiar side columns, base layer arrow keys, and two central thumb keys that give easy access to two additional layers. On those layers, numbers and symbols have familiar locations, function keys line the bottom row, and navigation and editing keys fill the home row of the nav/edit layer. The keymap was designed with familiar elements for easier initial use but also with more efficient layer-based alternatives that can be grown into. The [KeymapDB](https://keymapdb.com/) has additional examples for different board size, shape, preferences and needs.
+As an example, the Hillside's default keymap provides an introduction to the simpler keymap techniques found among 40% keyboards.
+
+- Letters, space, and common punctutaion are on the base layer.
+- Familiar side columns with shift, delete, return, etc.
+- Arrow keys on the base layer and/or a navigation layer.
+- Thumb keys give easy access to a few additional layers.
+- On the added layers
+    - frequent navigation and editing keys use the home row of a nav/edit layer,
+    - numbers and symbols have familiar locations,
+    -	function keys are intuitively arranged.
+
+The keymap provides familiar elements for easier initial use but also with more efficient layer-based alternatives that can be grown into. The [KeymapDB](https://keymapdb.com/) has additional examples for different board size, shape, preferences and needs.
 
 ![why_keymap_hillside.drawio.png](/image/why_keymap_hillside.drawio.png)
