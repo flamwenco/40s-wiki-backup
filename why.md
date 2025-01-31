@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T10:40:39.743Z
+date: 2025-01-31T10:55:03.243Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -22,7 +22,7 @@ People have different keyboard needs, but some common reasons for using a 40% bo
 
 That small things fit in more places is obvious and includes backpacks and small desks. Even with a large desk, it is nice to free up some of the central area. Many people also prefer mechanical keys over rubberized dome keys, and using fewer of the (bulkier) mechanical keys helps with portability.
 
-Tailoring for the needs at hand is elegant. If you normally type mostly letters, why carry around keys for the numbers and the symbols? Expressing individuality is also a need, and smaller boards are easier and less expensive to customize than comparable larger ones. Some people like smaller boards with cool keycaps, cases and sound.
+Tailoring for the needs at hand is elegant. If you normally type mostly letters, why carry around keys on the base layer for the numbers and the symbols? Expressing individuality is also a need, and smaller boards are easier and less expensive to customize than comparable larger ones. Some people like smaller boards with cool keycaps, cases and sound.
 
 Good layering can make small boards more efficient than large unlayered ones. Layers let keys do multiple jobs based on the other keys that are also pressed, just like the normal shift key does. Using 'shifted' layers for more than just capital letters means many keyboard uses can be done efficiently with just the keys next to the fingers, including writing programs or novels. Using a large unlayered board means reaching further for keys that layers can put right under the fingers.
 
