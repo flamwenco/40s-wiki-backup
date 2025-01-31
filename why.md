@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T10:08:14.748Z
+date: 2025-01-31T10:16:08.129Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -12,7 +12,7 @@ dateCreated: 2023-02-10T02:11:43.144Z
 
 Work in progress, edits pending.
 
-## Three general reasons
+## Small, tailored, closer
 
 People have different keyboard needs, but some common reasons for using a 40% board include:
 
