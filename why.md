@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T11:37:34.254Z
+date: 2025-01-31T11:45:06.659Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -24,7 +24,7 @@ That small things fit in more places is obvious and includes backpacks and small
 
 Tailoring for the needs at hand is elegant. If you normally type just letters, why carry around keys on the base layer for the numbers and the symbols? Expressing individuality is also a need, and smaller boards are easier and less expensive to customize than comparable larger ones. Some people like smaller boards with cool keycaps, cases and sound.
 
-Good layering can make small boards more efficient than large unlayered ones. Layers let keys do multiple jobs based on the other keys that are also pressed, just like the normal shift key does. Using 'shifted' layers for more than just capital letters means many keyboard uses can be done efficiently with just the keys next to the fingers, including writing programs or novels. Using a large unlayered board means reaching further for keys that layers can put right under the fingers.
+Good layering can make small boards more efficient than large unlayered ones. Layers let keys do multiple jobs based on the other keys that are also pressed, just like the normal shift key does. Using 'shifted' layers for more than just capital letters means many keyboard uses can be done efficiently with just the keys right next to the fingers, including writing programs or novels. Using a large unlayered board means reaching further for keys that layers can put right under the fingers.
 
 ## Good layering
 
@@ -46,7 +46,7 @@ Once effective layering is used, similar full-size keyboards are unneeded bulk a
 
 Preferred board sizes vary, but four rows and 12 to 13 keys wide (12u-13u) is common. This is an easier size to start with, and many people find no reason to go smaller later. This size keeps the letters and outer columns (shift, delete, and return) on the base layer, with a bottom row of central thumb keys for space, layers and modifiers, and possible side utility keys for arrows or extras. It means the fingers never need to move far and allows a simple layering scheme. Narrower boards, such as ten keys wide, further reduce finger reach and size, but require more complex layering methods. Some of these techniques are described in [How](/how). 
 
-Preferences also vary on how the physical keys are arranged: between row stagger, ortho-linear, or ergo/column stagger and between unibody or split case bodies. When used in full-sized keyboards, some are the more familiar choice, while others are more common in high-end ergonomic boards.
+Preferences also vary on how the physical keys are arranged: between row stagger, ortho-linear, or ergo/column stagger and between unibody or split case bodies. When used in full-sized keyboards, some physical arrangements are the more familiar choice, while others are more common in high-end ergonomic boards.
 
 Many small keyboard users are programmers, a group that is often typing or editing and cares about efficiency and hand ergonomics. There are times when a function or number row is very handy, such as for games or graphical tools that have heavy function and modifier use. But for general typing, including programming, it's often better to move the distant keys to the fingers instead of the fingers to the distant keys.
 
