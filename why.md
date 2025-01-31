@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T09:11:00.038Z
+date: 2025-01-31T09:36:53.923Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -52,7 +52,7 @@ In the end, small keyboards are a collection of choices and trade-offs about peo
 
 ### Example keymap
 
-As an example, the Hillside's default keymap illustrates the simpler keymap techniques found among 40% keyboards.
+As a complete example, the Hillside's default keymap illustrates the simpler keymap techniques found among 40% keyboards.
 
 - The letters and punctuation are on the base layer.
 - Familiar side columns have shift, delete, return, etc.
@@ -63,6 +63,6 @@ As an example, the Hillside's default keymap illustrates the simpler keymap tech
     - numbers and symbols in familiar locations,
     -	function keys intuitively arranged.
 
-The keymap provides familiar elements for easier initial use but also more efficient layer-based alternatives that can be grown into. The [KeymapDB](https://keymapdb.com/) has additional keymap examples for different board size, shape, preferences and needs.
+The keymap provides familiar elements for easier initial use but also more efficient layer-based alternatives that can be grown into. The [KeymapDB](https://keymapdb.com/) has additional keymap examples for different board size, shape, preferences and needs. Some additional layering techniques used with much smaller boards are described in [How](/how).
 
 ![why_keymap_hillside.drawio.png](/image/why_keymap_hillside.drawio.png)
