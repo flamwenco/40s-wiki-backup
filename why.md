@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T09:50:56.824Z
+date: 2025-01-31T09:51:38.097Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
