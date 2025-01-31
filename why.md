@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T09:47:11.049Z
+date: 2025-01-31T09:50:56.824Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -26,7 +26,7 @@ Tailoring for the needs at hand is elegant. If you normally type mostly letters,
 
 Good layering can make small boards more efficient than large unlayered ones. Layers let keys do multiple jobs based on the other keys that are also pressed, just like the normal shift key does. Using 'shifted' layers for more than just capital letters means many keyboard uses can be done efficiently with just the keys next to the fingers, including writing programs or novels. Using a large unlayered board means reaching further for keys that layers can put right under the fingers.
 
-## Why use a layered 40% keyboard?
+## Good layering
 
 On a common laptop-sized keyboard, just under half of the keys require stretching or moving the hands followed by reorienting back to the home row, including distant yet common keys such as the arrow and delete keys. That reaching and reorienting is slow and can lead to hand issues.
 
