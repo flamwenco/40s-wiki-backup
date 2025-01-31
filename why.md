@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-01-31T12:19:08.151Z
+date: 2025-01-31T12:27:00.466Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -20,7 +20,7 @@ People have different keyboard needs, but some common reasons for using a 40% bo
 - Small is cool, cute or elegant, based on taste and needs.
 - Good layers move many keys 'close', making small more efficient than large.
 
-That small things fit in more places is obvious and includes backpacks and small desks. Even with a large desk, it is nice to free up some of the central area. Many people also prefer mechanical keys over rubberized dome keys, and using fewer of the (bulkier) mechanical keys helps with portability.
+That small things fit in more places is obvious and includes backpacks and small desks. Even with a large desk, it is nice to free up some of the center. Many people also prefer mechanical keys over rubberized dome keys, and using fewer of the (bulkier) mechanical keys helps with portability.
 
 Tailoring for the needs at hand is elegant. If you normally type just letters, why carry around keys on the base layer for the numbers and the symbols? Expressing individuality is also a need, and smaller boards are easier and less expensive to customize than comparable larger ones. Some people like smaller boards with cool keycaps, cases and sound.
 
