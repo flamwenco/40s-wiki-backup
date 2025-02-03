@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-02-01T18:03:03.415Z
+date: 2025-02-03T04:15:03.900Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -10,9 +10,9 @@ dateCreated: 2023-02-10T02:11:43.144Z
 
 # Why use a 40% keyboard?
 
-We look at three common reasons why people choose a 40% keyboard, a bit more on why layers are one of them, and make the discussion concrete with toy and complete keymap examples.
+We look at three common reasons why people choose a 40% keyboard and go into more depth on why layers are one of them.
 
-## Small, tailored, dense
+## They're small, tailored, and packed
 
 People have different keyboard needs, but three common reasons for using a 40% board are:
 
@@ -28,7 +28,7 @@ Good layering can make small boards more efficient than large unlayered ones. La
 
 In the end, small keyboards are a collection of choices and tradeoffs about people's situations, typing, and hands.
 
-## Good layering
+## Good layering can pack them with keys
 
 On a common laptop-sized keyboard, just under half of the keys require stretching or moving the hands followed by reorienting back to the home row; this includes distant yet common keys such as the arrow and delete keys. That reaching and reorienting is slow and can lead to hand issues.
 
@@ -50,12 +50,12 @@ Many small keyboard users are programmers, a group that is often typing or editi
 
 If your reason for using a 40% keyboard often requires the keys on the layers, then thumb-activated layer keys in the bottom row center are very convenient. They allow the rest of that hand to easily reach keys on the activated layer without straining or moving the hand. More advanced layer activation techniques are covered in [How](/how), but the humble layer key is a reliable technique that is very simple both cognitively and mechanically.
 
-## Example keymap
+### Keymap example
 
-As a complete example, Hillside's default keymap illustrates the more straight forward keymap techniques found among 40% keyboards.
+As an example keymap with a priority for rapid access to all the standard keys, Hillside illustrates techniques found in many 40% boards.
 
 - The letters and punctuation are on the base layer.
-- Familiar side columns have shift, delete, return, etc.
+- Familiar side columns have shift, delete, and return.
 - Arrow keys are on the base and/or navigation layers.
 - Thumb keys give easy access to a few additional layers.
 - The added layers have
