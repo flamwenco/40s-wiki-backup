@@ -2,7 +2,7 @@
 title: Why
 description: Why would one use a 40% keyboad?
 published: true
-date: 2025-02-03T04:15:03.900Z
+date: 2025-02-05T03:32:55.514Z
 tags: faq
 editor: markdown
 dateCreated: 2023-02-10T02:11:43.144Z
@@ -10,7 +10,7 @@ dateCreated: 2023-02-10T02:11:43.144Z
 
 # Why use a 40% keyboard?
 
-We look at three common reasons why people choose a 40% keyboard and go into more depth on why layers are one of them.
+We describe three common reasons for using 40% boards and explain the layering reason in more detail.
 
 ## They're small, tailored, and packed
 
@@ -32,7 +32,7 @@ In the end, small keyboards are a collection of choices and tradeoffs about peop
 
 On a common laptop-sized keyboard, just under half of the keys require stretching or moving the hands followed by reorienting back to the home row; this includes distant yet common keys such as the arrow and delete keys. That reaching and reorienting is slow and can lead to hand issues.
 
-Forty-percent keyboards reduce finger and hand stretch by moving some keys onto added layers under the fingers. Full-size keyboards already do this by using the shift key for both capital letters and many symbols. Most people don't use massive keyboards with separate keys for the capital letters and extra symbols. Instead, they use a shift-layer key. Forty-percent keyboards apply the same idea to a smaller set of base keys. They often use just the letter area plus side columns, with the keyboard usually having only four rows.
+Forty-percent boards reduce finger and hand stretch by moving some keys onto added layers under the fingers. Full-size keyboards already do this by using the shift key for both capital letters and many symbols. Most people don't use massive keyboards with separate keys for the capital letters and extra symbols. Instead, they use a shift-layer key. Forty-percent keyboards apply the same idea to a smaller set of base keys. They often use just the letter area plus side columns, with the board usually having only four rows.
 
 A simple 40% keymap has two new layers and two new layer access keys. Holding one layer key accesses a layer with navigation, editing, numbers, and functions; holding the other accesses a layer with symbols.
 
@@ -48,7 +48,7 @@ Many small keyboard users are programmers, a group that is often typing or editi
 
 ### Layer keys
 
-If your reason for using a 40% keyboard often requires the keys on the layers, then thumb-activated layer keys in the bottom row center are very convenient. They allow the rest of that hand to easily reach keys on the activated layer without straining or moving the hand. More advanced layer activation techniques are covered in [How](/how), but the humble layer key is a reliable technique that is very simple both cognitively and mechanically.
+If your reason for using a 40% board often requires the keys on the layers, then thumb-activated layer keys in the bottom row center are very convenient. They allow the rest of that hand to easily reach keys on the activated layer without straining or moving the hand. More advanced layer activation techniques are covered in [How](/how), but the humble layer key is a reliable technique that is very simple both cognitively and mechanically.
 
 ### Keymap example
 
