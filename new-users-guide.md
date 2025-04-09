@@ -2,7 +2,7 @@
 title: New User’s Guide
 description: A guide for someone looking to purchase their first 40%
 published: true
-date: 2025-04-09T05:28:09.733Z
+date: 2025-04-09T05:49:01.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T05:27:32.456Z
