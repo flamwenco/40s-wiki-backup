@@ -1,14 +1,14 @@
 ---
-title: New User’s Guide
+title: New Users' Guide
 description: A guide for someone looking to purchase their first 40%
 published: true
-date: 2025-04-12T23:57:36.055Z
+date: 2025-04-12T23:59:17.834Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T05:27:32.456Z
 ---
 
-# New User's Guide
+# New Users' Guide
 If you're looking to build your first 40%, three easily accessible options are provided below, each with a slightly different approach to a 40% keyboard. 
 
 ## Minivan
