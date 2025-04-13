@@ -2,7 +2,7 @@
 title: New Users' Guide
 description: A guide for someone looking to purchase their first 40%
 published: true
-date: 2025-04-12T23:59:17.834Z
+date: 2025-04-13T15:31:17.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T05:27:32.456Z
@@ -20,6 +20,7 @@ Minivan and related PCBs can be purchased from the following locations:
 - [CBKBD Coffeevan Kit](https://www.cbkbd.com/product/minivan-kits)
 - [CBKBD Coffeevan PCB](https://www.cbkbd.com/product/coffeevan-pcb)
 - [Rescue Truck PCB](https://ringerkeys.com/products/rescue-trucks)
+- [DeLAEvery V4N PCB](https://www.dashkeebs.com/product/delaevery-v4n-pcb-plate]
 - [Minivan Case](https://www.cbkbd.com/product/minivan-accessories)
 
 There are also numerous open source, 3D printable cases available for minivan PCBs
