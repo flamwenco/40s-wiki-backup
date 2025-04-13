@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2025-01-22T17:41:21.092Z
+date: 2025-04-13T16:04:57.251Z
 tags: vendors, vendor
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -51,7 +51,7 @@ Canadian vendor stocking primarily 40s boards and parts. Similar stock to CBKBD.
 
 ## EU
 ### [Keeb Supply](https://keeb.supply/)
-EU based vendor selling 40s and larger products as well as keyboard parts. Noteworthy boards sold include Kiser Design's [Monorail](/boards/monorail), [Endgame](/boards/endgame), [Bully](/boards/bully), and [Ampersand](/boards/ampersand)
+EU based vendor selling 40s and larger products as well as keyboard parts. Noteworthy boards sold include [Monorail](/boards/monorail), [Endgame](/boards/endgame), [Bully](/boards/bully), and [Ampersand](/boards/ampersand)
 
 ## East Asia
 ### [Lazydesigners](https://lazydesigners.cn)
