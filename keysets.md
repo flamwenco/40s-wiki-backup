@@ -2,7 +2,7 @@
 title: 40% Keysets
 description: A list of known keysets
 published: true
-date: 2026-03-21T05:36:11.275Z
+date: 2026-03-21T05:39:29.490Z
 tags: keysets
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
@@ -21,6 +21,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - 420 R2 (DSS) [40%]
 
 #### A
+- After School 1992 (DCS) [40%]
 - All Hallows' Eve (DSS) [Unique Kitting]
 
 #### B
@@ -90,6 +91,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 -
 
 ### W
+- White on Black (DCS) [40%]
 - White on Black (DSS) [40%]
 - White on Black R2 (DSS) [40%]
 - White on Black Extensions [40%]
