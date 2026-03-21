@@ -2,7 +2,7 @@
 title: 40% Keysets
 description: A list of known keysets
 published: true
-date: 2026-03-21T05:28:49.871Z
+date: 2026-03-21T05:36:11.275Z
 tags: keysets
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
@@ -17,7 +17,8 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 
 
 #### Number Names
-
+- 420 (DSS) [40%]
+- 420 R2 (DSS) [40%]
 
 #### A
 - All Hallows' Eve (DSS) [Unique Kitting]
@@ -39,11 +40,12 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - 
 
 #### G
-- 
+- Government Cheese (DSS) [40%]
 
 #### H
 - Hail Satan (DSS) [40%]
 - Handwork (DSS) [Unique Kitting]
+- Honeywell (DSS) [Fix Kit]
 
 #### I
 - Input (DCS) [40%]
@@ -67,7 +69,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - 
 
 #### P
-- 
+- Pide Tod (DSA) [40%]
 
 #### Q
 - 
@@ -79,16 +81,19 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - Sumo (DSS) [40%]
 
 #### T
-- 
+- Teletype (SA) [40%]
 
 #### U
 - 
 
 #### V
-- 
+-
 
 ### W
-- 
+- White on Black (DSS) [40%]
+- White on Black R2 (DSS) [40%]
+- White on Black Extensions [40%]
+
 
 #### X
 
