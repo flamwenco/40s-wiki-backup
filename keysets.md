@@ -2,7 +2,7 @@
 title: 40% Keysets
 description: A list of known keysets
 published: true
-date: 2026-03-21T05:26:03.428Z
+date: 2026-03-21T05:28:49.871Z
 tags: keysets
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
@@ -76,7 +76,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - Red Velvet (DSA) [40%]
 
 #### S
-- 
+- Sumo (DSS) [40%]
 
 #### T
 - 
