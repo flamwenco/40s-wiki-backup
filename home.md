@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2024-04-14T18:07:38.300Z
+date: 2026-08-16T00:03:15.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -30,4 +30,4 @@ Regardless of what you choose to do, we hope that you enjoy learning more about 
 
 ## How do I contribute to this wiki?
 
-To contribute, you will want to submit a PR (Pull Request) on the [Git repository](https://github.com/40-percent/40percent-wiki). Create a branch, make your changes, and submit your changes as a pull request to be merged into the main branch.
+To contribute, you will want to create an account and authenticate through Discord or Github. To do this, click on the icon in the top right and select your prefered authentication method.
