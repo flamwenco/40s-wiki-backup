@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-16T00:09:19.836Z
+date: 2026-08-23T03:42:19.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -10,24 +10,64 @@ dateCreated: 2023-02-08T19:49:37.040Z
 
 # Welcome to the 40 Percent Keyboards Wiki!
 
-## Purpose
+The purpose of the 40s wiki is to provide a place to centralize information related to 40 percent keyboards. It is maintained and organized by members of the 40 Percent Keyboards Discord Server.
 
-The purpose of this wiki is to provide a place to centralize information related to 40 percent keyboards. It is maintained and organized by members of the 40 Percent Keyboards Discord Server.
+You can join the discord server here [https://discord.gg/40percent](https://discord.gg/40percent) [direct link to the wiki channel](https://discord.gg/YwBWB9GEMp).
 
-You can join the discord using our vanity link [https://discord.gg/40percent](https://discord.gg/40percent) or using the [direct link to the wiki channel](https://discord.gg/YwBWB9GEMp).
+<div style="display: flex; gap: 1em; flex-wrap: wrap;">
+ 
+<!-- Column 1, no empty lines -->   
+<div style="flex: 1;">
+	<h3>40% Keyboards</h3>
+		<ul>
+			<li>By designer</li>
+     	<li><a href="/en/boards">By name</a></li>
+      <li>By phsyical layout</li>
+      <li>By size</li>
+      <li>By stagger</li>
+      <li>By switch support</li>  
+    </ul>
+</div>
+  
+<!-- Column 2 -->  
+<div style="flex: 1;">
+	<h3>Designers & Vendors</h3>
+		<ul>
+      <li>By name</li>
+    </ul>
+</div>
 
-## What is a 40 Percent?
+<div>
 
-There is no concrete definition of a 40 Percent keyboard on this wiki. This is a very, **very**, hotly debated topic and this wiki is not the place to provide a clear distinction for what a 40 Percent keyboard is. On the other hand, the idea is to give you all of the information needed for you to make your own decision on what a 40 Percent is.
+  
+  
+<div style="display: flex; gap: 1em; flex-wrap: wrap;">
+<div style="flex: 1;">
+	<h3>Keycap Sets</h3>
+		<ul>
+      <li>By designer</li>
+      <li>By material</li>
+      <li>By profile</li>
+    </ul>
+</div>
 
-The most important part of 40 Percent keyboards is -  _**Small keyboard = good.**_
+<div style="flex: 1;">
+	<h3>Guides & Meta</h3>
+		<ul>
+      <li>40% new user guide</li>
+			<li>40s Day</li>
+     	<li>How to conribute to the wiki</li>
+      <li>How does a 40% work?</li>
+      <li>Wiki to-do</li>
+      <li>Why use a 40%?</li> 
+    </ul>
+</div>
+  
+</div>
+ 
+## What is a 40% Keyboard?
 
-## How do I get started?
+There is no concrete definition of a 40% keyboard on this wiki. This is a very, **very**, hotly debated topic and this wiki is not the place to provide a clear distinction for what a 40% keyboard is. The idea is to give you all of the information needed for you to make your own decision on what a 40% is.
 
-This page is a great place to start! If you're new to the Mechanical Keyboard community as a whole (or are just interested in getting your first 40% board), check out the [introduction page](/Guides/Introduction)! If you're a veteran, consider joining the discord (and contribute to the wiki).
 
-Regardless of what you choose to do, we hope that you enjoy learning more about tiny boards. And, always remember, 40% keyboards - 100% toxic.
 
-## How do I contribute to this wiki?
-
-To contribute, you will want to create an account and authenticate through Discord or Github. To do this, click on the icon in the top right and select your prefered authentication method.
