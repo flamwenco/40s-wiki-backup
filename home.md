@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-23T04:14:33.592Z
+date: 2026-08-23T04:44:48.632Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -11,7 +11,7 @@ dateCreated: 2023-02-08T19:49:37.040Z
 > This page is incomplete, you can help by creating the listed directories in their respective folders.
 {.is-danger}
 
-# Welcome to the 40 Percent Keyboards Wiki!
+# Welcome to the 40% Keyboards Wiki!
 
 The purpose of the 40s wiki is to provide a place to centralize information related to 40 percent keyboards. It is maintained and organized by members of the 40 Percent Keyboards Discord Server.
 
