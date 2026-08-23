@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-23T03:42:19.245Z
+date: 2026-08-23T03:43:18.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -12,8 +12,12 @@ dateCreated: 2023-02-08T19:49:37.040Z
 
 The purpose of the 40s wiki is to provide a place to centralize information related to 40 percent keyboards. It is maintained and organized by members of the 40 Percent Keyboards Discord Server.
 
-You can join the discord server here [https://discord.gg/40percent](https://discord.gg/40percent) [direct link to the wiki channel](https://discord.gg/YwBWB9GEMp).
+You can join the discord server by clicking one of the links below:
+- [https://discord.gg/40percent](https://discord.gg/40percent) 
+- [direct link to the wiki channel](https://discord.gg/YwBWB9GEMp).
 
+<br>
+<br>
 <div style="display: flex; gap: 1em; flex-wrap: wrap;">
  
 <!-- Column 1, no empty lines -->   
