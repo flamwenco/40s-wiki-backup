@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-23T04:06:22.594Z
+date: 2026-08-23T04:14:33.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -25,7 +25,7 @@ You can join the discord server by clicking one of the links below:
  
 <!-- Column 1, no empty lines -->   
 <div style="flex: 1;">
-	<h3>40% Keyboards</h3>
+	<h2>40% Keyboards</h2>
 		<ul>
 			<li>By designer</li>
      	<li><a href="/en/boards">By name</a></li>
@@ -38,7 +38,7 @@ You can join the discord server by clicking one of the links below:
   
 <!-- Column 2 -->  
 <div style="flex: 1;">
-	<h3>Designers & Vendors</h3>
+	<h2>Designers & Vendors</h2>
 		<ul>
       <li><a href="/en/designers-vendors">By name</a></li>
     </ul>
@@ -50,7 +50,7 @@ You can join the discord server by clicking one of the links below:
   
 <div style="display: flex; gap: 1em; flex-wrap: wrap;">
 <div style="flex: 1;">
-	<h3>Keycap Sets</h3>
+	<h2>Keycap Sets</h2>
 		<ul>
       <li>By designer</li>
       <li>By material</li>
@@ -60,7 +60,7 @@ You can join the discord server by clicking one of the links below:
 </div>
 
 <div style="flex: 1;">
-	<h3>Guides & Meta</h3>
+	<h2>Guides & Meta</h2>
 		<ul>
       <li>40% new user guide</li>
 			<li><a href="/en/40s-day">40s Day</a></li>
