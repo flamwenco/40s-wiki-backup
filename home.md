@@ -2,11 +2,14 @@
 title: Home
 description: 
 published: true
-date: 2026-08-23T03:59:09.479Z
+date: 2026-08-23T04:06:22.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
 ---
+
+> This page is incomplete, you can help by creating the listed directories in their respective folders.
+{.is-danger}
 
 # Welcome to the 40 Percent Keyboards Wiki!
 
@@ -73,8 +76,3 @@ You can join the discord server by clicking one of the links below:
 ## What is a 40% Keyboard?
 
 There is no concrete definition of a 40% keyboard on this wiki. This is a very, **very**, hotly debated topic and this wiki is not the place to provide a clear distinction for what a 40% keyboard is. The idea is to give you all of the information needed for you to make your own decision on what a 40% is.
-  
-This page is currently incomplete. You can help by 
-
-
-
