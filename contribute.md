@@ -2,14 +2,14 @@
 title: How to Contribute to the Wiki
 description: 
 published: true
-date: 2026-08-23T04:11:24.336Z
+date: 2026-08-23T04:11:53.578Z
 tags: meta, help
 editor: markdown
 dateCreated: 2026-08-23T04:04:53.774Z
 ---
 
 # How to Contribute to the Wiki
-> This page is incomplete, you can help by adding information
+> This page is incomplete, you can help by adding information.
 {.is-danger}
 
 Contributing to the wiki is easy and encouraged.
