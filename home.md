@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-23T03:43:18.335Z
+date: 2026-08-23T03:52:55.133Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -37,7 +37,7 @@ You can join the discord server by clicking one of the links below:
 <div style="flex: 1;">
 	<h3>Designers & Vendors</h3>
 		<ul>
-      <li>By name</li>
+      <li><a href="/en/designers-vendors">By name</a></li>
     </ul>
 </div>
 
@@ -51,6 +51,7 @@ You can join the discord server by clicking one of the links below:
 		<ul>
       <li>By designer</li>
       <li>By material</li>
+      <li><a href="/en/keysets">By name</a></li>
       <li>By profile</li>
     </ul>
 </div>
@@ -59,11 +60,11 @@ You can join the discord server by clicking one of the links below:
 	<h3>Guides & Meta</h3>
 		<ul>
       <li>40% new user guide</li>
-			<li>40s Day</li>
-     	<li>How to conribute to the wiki</li>
-      <li>How does a 40% work?</li>
-      <li>Wiki to-do</li>
-      <li>Why use a 40%?</li> 
+			<li><a href="/en/40s-day">40s Day</a></li>
+     	<li>How to contribute to the wiki</li>
+      <li><a href="/en/how">How does a 40% keyboard work?</a></li>
+      <li><a href="/en/to-do-list">Wiki to-do list</a></li>
+      <li><a href="/en/why">Why use a 40% keyboard?</a></li> 
     </ul>
 </div>
   
