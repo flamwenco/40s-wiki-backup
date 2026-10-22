@@ -2,7 +2,7 @@
 title: Bruce
 description: Bruce The Keyboard
 published: true
-date: 2024-07-29T03:51:49.336Z
+date: 2026-10-22T19:57:27.532Z
 tags: column stagger, 10u
 editor: markdown
 dateCreated: 2024-04-22T01:30:54.686Z
@@ -59,8 +59,12 @@ Revision 3 (Released in March of 2024) added rotated switch footprints to allevi
 
 ### Bruce Le Clavier
 These PCBs were also sold on JLW's site. Featuring the black soldermask and rotated switch footprints of the Bruce The Keyboard The PCB v3, it was released around the same time (late March, 2024) in advance of any cases that supported it.
+
 ## Availability
 jlw has [PCBs for sale](https://www.jlw-kb.com/products/bruce-the-keyboard-the-pcb) as of writing this page. Restocks are intermittent. 3D printed cases and plates are also available through the same site. 
+
+## See Also
+The [Willis](https://github.com/krikun98/Willis), an unofficial wireless variant that is compatible with Bruce plates and cases. It also has a bottom row option of all 1u.
 
 ## Citations:
 
