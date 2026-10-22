@@ -2,8 +2,8 @@
 title: Bruce
 description: Bruce The Keyboard
 published: true
-date: 2026-10-22T19:57:27.532Z
-tags: column stagger, 10u
+date: 2026-10-22T20:17:18.607Z
+tags: column stagger, 10u, tray mount, hull mount
 editor: markdown
 dateCreated: 2024-04-22T01:30:54.686Z
 ---
