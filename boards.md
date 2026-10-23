@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2026-10-23T17:07:30.103Z
+date: 2026-10-23T17:08:20.130Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -123,7 +123,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - Idobao GQ40
 - Industry
 - Infernum
-- [Inland_47](/boards/Inland_47)Inland 47
+- [Inland_47](/boards/Inland_47)
 - Isometric
 
 #### J
