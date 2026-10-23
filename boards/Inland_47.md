@@ -1,8 +1,8 @@
 ---
 title: Inland 47
-description: An planck-like sold by the technology retail chain Microcenter.
+description: A planck-like ortho sold by the technology retail chain Microcenter.
 published: true
-date: 2026-10-23T17:01:31.873Z
+date: 2026-10-23T17:12:45.452Z
 tags: ortho, tray mount, closed source, hotswap, qmk
 editor: markdown
 dateCreated: 2026-10-23T17:01:31.873Z
