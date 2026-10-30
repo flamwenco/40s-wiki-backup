@@ -2,7 +2,7 @@
 title: Alpha 28
 description: Alpha 28 by PryoL
 published: true
-date: 2026-10-30T01:27:23.794Z
+date: 2026-10-30T18:08:19.583Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-30T01:15:48.151Z
@@ -22,7 +22,17 @@ Alpha28 is actually called, Alpha.
 
 ![pyrol-alpha28.jpg](/boards/images/alpha-28/pyrol-alpha28.jpg)
 
-### Spinoffs
+#### Open source cases
+[alpha-EXR](https://www.thingiverse.com/thing:4123951)
+[alpha.0110](https://www.thingiverse.com/thing:3487963)
+[alpha.ping](https://www.thingiverse.com/thing:3487311)
+[alpha.m](https://www.thingiverse.com/thing:3534528)
+[alpha.0110 top mount](https://www.thingiverse.com/thing:5142035)
+[alpha slope](https://www.thingiverse.com/thing:3994503)
+[alpha lo-pro](https://www.thingiverse.com/thing:3454073)
+
+
+## Spinoffs
 
 #### Alpha9
 A variant of alpha, designed by dingusxmcgee and pcb by worldspawn. Features a reversible pcb to be used left or right handed, and a 9 key numpad to accompany the 28 key cluster.
