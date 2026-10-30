@@ -2,7 +2,7 @@
 title: Alpha 28
 description: Alpha 28 by PryoL
 published: true
-date: 2026-10-30T01:21:32.171Z
+date: 2026-10-30T01:27:23.794Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-30T01:15:48.151Z
@@ -13,7 +13,13 @@ Alpha 28 is a legendary keyboard and layout designed and championed by PyroL. Hi
 
 Alpha 28 distils everything that is good about a keyboard into the essential 28 keys. It inspired a plethora of designers and spawned many creative spinoffs and case ideas. Early cases by softsama and dinguxmcgee were prolific and iconic, such as the cases mimicing famous apple keyboards, designed by soft, and drop in cases with built in wrist rests or snack trays, by dingus.
 
+Pictured below is the M0110 case by soft
+![alpha28-m0110-top.jpeg](/boards/images/alpha-28/alpha28-m0110-top.jpeg)
+![alpha28-m0110-bottom.jpeg](/boards/images/alpha-28/alpha28-m0110-bottom.jpeg)
+![alpha28-m0110-side.jpeg](/boards/images/alpha-28/alpha28-m0110-side.jpeg)
+
 Alpha28 is actually called, Alpha.
+
 ![pyrol-alpha28.jpg](/boards/images/alpha-28/pyrol-alpha28.jpg)
 
 ### Spinoffs
@@ -23,5 +29,3 @@ A variant of alpha, designed by dingusxmcgee and pcb by worldspawn. Features a r
 
 #### Open source case
 Can be located [here](https://github.com/dingusxmcgee/alpha_9)
-
-#### Images
