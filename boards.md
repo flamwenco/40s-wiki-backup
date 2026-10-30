@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2026-10-30T01:27:56.738Z
+date: 2026-10-30T01:44:58.562Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -177,6 +177,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 
 #### O
 - Oceanographer
+- [Odmug](/boards/odmug)
 - Oracle
 
 #### P
