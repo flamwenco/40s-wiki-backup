@@ -2,7 +2,7 @@
 title: Pragma
 description: Pragma
 published: true
-date: 2026-10-30T01:32:01.343Z
+date: 2026-10-30T01:32:13.572Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-30T01:01:26.887Z
