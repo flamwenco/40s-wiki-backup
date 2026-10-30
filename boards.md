@@ -2,7 +2,7 @@
 title: 40% Keyboards
 description: A list of known 40s
 published: true
-date: 2026-10-23T17:08:59.429Z
+date: 2026-10-30T00:45:27.018Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-19T20:23:55.988Z
@@ -234,6 +234,7 @@ This page also serves as a To-Do List. If there is a board listed below with no 
 - The Ave
 - The Compensator
 - The Log
+- [The NE](/boards/the-ne)
 - TK40X
 - Totem
 - TPS40
