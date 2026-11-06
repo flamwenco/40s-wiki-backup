@@ -2,7 +2,7 @@
 title: How to Contribute to the Wiki
 description: 
 published: true
-date: 2026-08-23T04:11:53.578Z
+date: 2026-11-06T00:53:52.341Z
 tags: meta, help
 editor: markdown
 dateCreated: 2026-08-23T04:04:53.774Z
@@ -16,7 +16,7 @@ Contributing to the wiki is easy and encouraged.
 
 To contribute to the wiki you must first make an account. This can be done by clicking the icon in the top right corner of the page and authtenicating through either Discord or Github. 
 
-Once you have created an account navigate using the sidebar and find the page you wish to edit, or make sure that the page you wish to create does not exist. To prevent vandalism, only administrators have page deletion privlages. 
+Once you have created an account navigate using the sidebar and find the page you wish to edit, or make sure that the page you wish to create does not exist. To prevent vandalism, only administrators have page deletion privileges. 
 
 
 # Style Guide
