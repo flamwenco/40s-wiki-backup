@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2026-08-23T15:12:21.541Z
+date: 2026-11-07T23:56:28.299Z
 tags: home, main page
 editor: markdown
 dateCreated: 2023-02-08T19:49:37.040Z
@@ -54,7 +54,7 @@ You can join the discord server by clicking one of the links below:
 		<ul>
       <li>By designer</li>
       <li>By material</li>
-      <li><a href="/en/keysets">By name</a></li>
+      <li><a href="/en/keycaps">By name</a></li>
       <li>By profile</li>
     </ul>
 </div>
