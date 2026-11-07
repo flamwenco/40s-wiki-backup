@@ -2,8 +2,8 @@
 title: 40% Keysets
 description: A list of known keysets
 published: true
-date: 2026-03-21T05:39:29.490Z
-tags: keysets
+date: 2026-11-07T23:50:46.479Z
+tags: keycaps
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
 ---
