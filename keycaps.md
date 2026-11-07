@@ -1,8 +1,8 @@
 ---
-title: 40% Keysets
+title: 40% Keycaps
 description: A list of known keysets
 published: true
-date: 2026-11-07T23:50:46.479Z
+date: 2026-11-07T23:51:33.506Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
