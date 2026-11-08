@@ -2,7 +2,7 @@
 title: 40% Keycaps
 description: A list of known keysets
 published: true
-date: 2026-11-08T19:01:49.252Z
+date: 2026-11-08T20:23:39.777Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
@@ -31,7 +31,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - 
 
 #### D
-- [Distortion](/keycaps/dss-distortion) (DSS) [40%]
+- [Distortion](/en/keycaps/dss-distortion) (DSS) [40%]
 - Distortion (CYL) [4-key]
 - DN (DSA) [40%]
 
@@ -66,7 +66,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 
 #### N
 - Napoleonic (KAT) [Unique Kitting]
-- [Neon Nights](/keycaps/dss-neon-nights) (DSS) [40%]
+- [Neon Nights](/en/keycaps/dss-neon-nights) (DSS) [40%]
 
 #### O
 - 
