@@ -2,7 +2,7 @@
 title: Signature Plastics
 description: Keycap Manufacturer based in Washington, USA
 published: true
-date: 2026-11-08T21:25:46.086Z
+date: 2026-11-08T21:31:18.481Z
 tags: manufacturers
 editor: markdown
 dateCreated: 2026-11-08T21:25:46.086Z
@@ -17,8 +17,8 @@ They make nice keycaps...
 
 Signature Plastics makes many [keycap sets](https://spkeyboards.com/collections/keycap-sets)
 
-- DCS
-- DSA
+- [DCS](/en/keycaps/profiles/dcs)
+- [DSA](/en/keycaps/profiles/dsa)
 - [DSS](/en/keycaps/profiles/dss)
 - F10
 - G20
