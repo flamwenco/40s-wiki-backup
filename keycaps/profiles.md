@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-08T20:05:38.466Z
+date: 2026-11-08T20:21:20.484Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
@@ -21,7 +21,7 @@ These abreviations may be derived from an internal specifications, such as machi
 ## List of profiles
 
 DSA
-DSS
+[DSS](/en/keycaps/profiles/dss)
 DCS
 SA
 SS
