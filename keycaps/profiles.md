@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-08T21:13:30.463Z
+date: 2026-11-08T21:16:37.145Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
@@ -20,17 +20,19 @@ These abbreviations may be derived from an internal specifications, such as mach
 
 ## List of profiles
 
-DSA
-[DSS](/en/keycaps/profiles/dss)
-DCS
-SA
-SS
-HSA
-OEM
-CYL
-HUB
-PFF
-PBS
-URSA
-HiPro
-XDA
+- CYL
+- DCS
+- DSA
+- [DSS](/en/keycaps/profiles/dss)
+- HiPro
+- HSA
+- HUB
+- MT3
+- MTNU
+- OEM
+- PBS
+- PFF
+- SA
+- SS
+- URSA
+- XDA
