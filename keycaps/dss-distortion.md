@@ -2,7 +2,7 @@
 title: DSS Distortion
 description: Punk Rock inspired DSS Set
 published: true
-date: 2026-11-08T20:25:26.722Z
+date: 2026-11-08T21:11:07.697Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T18:59:17.898Z
@@ -10,7 +10,7 @@ dateCreated: 2026-11-08T18:59:17.898Z
 
 # DSS Distortion
 
-DSS Distortion is a keycap set deisgned by madmax13. It "features vibrant pink legends and accents inspired by the aesthetics of early punk rock albums."[^1]
+DSS Distortion is a keycap set designed by madmax13. It "features vibrant pink legends and accents inspired by the aesthetics of early punk rock albums."[^1]
 
 The design went through several iterations starting in late 2024.
 Multiple keycap profiles were explored including SA, CYL, and eventually [DSS](/en/keycaps/profiles/dss) in mid 2025.
