@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-08T21:16:37.145Z
+date: 2026-11-08T21:30:25.861Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
@@ -21,8 +21,8 @@ These abbreviations may be derived from an internal specifications, such as mach
 ## List of profiles
 
 - CYL
-- DCS
-- DSA
+- [DCS](/en/keycaps/profiles/dcs)
+- [DSA](/en/keycaps/profiles/dsa)
 - [DSS](/en/keycaps/profiles/dss)
 - HiPro
 - HSA
