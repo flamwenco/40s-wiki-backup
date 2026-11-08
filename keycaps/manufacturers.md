@@ -2,7 +2,7 @@
 title: Keycap Manufacturers
 description: Companies that produce keycap sets
 published: true
-date: 2026-11-08T21:56:00.092Z
+date: 2026-11-08T21:59:58.735Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T21:10:27.958Z
@@ -15,7 +15,7 @@ Mass production of keycaps requires specific manufacturing equipment including m
 ## List of keycap manufacturers
 
 - [Signature Plastics](/en/keycaps/manufacturers/signature-plastics) - [SP]
-- GMK
+- [GMK](/en/keycaps/manufacturers/gmk)
 - Key Kobo - [KKB]
 - Wuque Studio - [WS]
 - Milkyway Keys - [MW]
