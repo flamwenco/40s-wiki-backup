@@ -2,7 +2,7 @@
 title: DSS Distortion
 description: Punk Rock inspired DSS Set
 published: true
-date: 2026-11-08T18:59:17.898Z
+date: 2026-11-08T19:23:55.743Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T18:59:17.898Z
@@ -15,14 +15,11 @@ DSS Distortion is a keycaps set deisgned by madmax13. "This set features vibrant
 The design went through several iterations starting in late 2024.
 Multiple keycap profiles were explored including SA, CYL, and eventually DSS in mid 2025.
 
-
-
-
-
-
+![cutiepie-dss-distortion.jpg](/cutiepie-dss-distortion.jpg)
 
 ## Specifications
 
+||
 |---|---
 Designer| madmax13
 Manufacturer| Signature Plastics
@@ -35,11 +32,11 @@ Material| ABS
 
 The colors are Signature Plastics' stock color samples.
 
-Color| Code
+Color|Code
 |---|---
-Alphas| <span style="color: #38363f; background-color: #808080;">**NEZ**</span>
-Mods| <span style="color: #212224; background-color: #808080;">**NN**</span>
-Pink| <span style="color: #fd36a5; background-color: #000000;">**RFP**</span>
+Alphas|<span style="color: #38363f; background-color: #808080;">**NEZ**</span>
+Mods|<span style="color: #212224; background-color: #808080;">**NN**</span>
+Pink|<span style="color: #fd36a5; background-color: #000000;">**RFP**</span>
 <!-- NOTE: The NEZ and RFP hex colors were eyeballed, not measured like the NN color was. -->
 
 <img src="/image/img_2508.jpg" width="600">
