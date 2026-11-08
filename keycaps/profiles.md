@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-08T21:51:51.340Z
+date: 2026-11-08T22:23:12.742Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
@@ -20,7 +20,7 @@ Keycap profiles tend to be labeled using two or three letter abbreviations.
 These abbreviations may be derived from an internal specifications, such as machining standards that they were produced to meet. Or they might stand for a more typical user-facing product name. Regardless, the keyboard community generally refers to these by their abbreviations rather than worrying about that the letters actually mean.
 
 
-- CYL
+- [CYL](/en/keycaps/profiles/cyl)
 - [DCS](/en/keycaps/profiles/dcs)
 - [DSA](/en/keycaps/profiles/dsa)
 - [DSS](/en/keycaps/profiles/dss)
@@ -28,7 +28,7 @@ These abbreviations may be derived from an internal specifications, such as mach
 - HSA
 - HUB
 - MT3
-- MTNU
+- [MTNU](/en/keycaps/profiles/mtnu)
 - OEM
 - PBS
 - PFF
