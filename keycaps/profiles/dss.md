@@ -2,8 +2,8 @@
 title: DSS Profile
 description: Keycap profile manufactured by Signature Plastics
 published: true
-date: 2026-11-08T20:17:09.332Z
-tags: 36 keys
+date: 2026-11-08T20:17:59.106Z
+tags: keycaps, dss, profiles
 editor: markdown
 dateCreated: 2026-11-08T20:17:09.332Z
 ---
