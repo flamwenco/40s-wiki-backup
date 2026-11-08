@@ -2,7 +2,7 @@
 title: DSS Distortion
 description: Punk Rock inspired DSS Set
 published: true
-date: 2026-11-08T19:23:55.743Z
+date: 2026-11-08T19:25:10.564Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T18:59:17.898Z
@@ -19,7 +19,7 @@ Multiple keycap profiles were explored including SA, CYL, and eventually DSS in 
 
 ## Specifications
 
-||
+|Key|Value
 |---|---
 Designer| madmax13
 Manufacturer| Signature Plastics
