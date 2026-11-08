@@ -2,8 +2,8 @@
 title: DSS Neon Nights
 description: Doubleshot ABS keycap set produced by Signature Plastics.
 published: true
-date: 2026-11-08T00:32:16.829Z
-tags: keycaps
+date: 2026-11-08T18:18:32.009Z
+tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T00:03:47.383Z
 ---
