@@ -2,7 +2,7 @@
 title: CYL Profile
 description: Cherry profile keycaps AKA CYL
 published: true
-date: 2026-11-08T22:19:33.575Z
+date: 2026-11-08T22:23:35.165Z
 tags: profiles
 editor: markdown
 dateCreated: 2026-11-08T22:19:33.575Z
