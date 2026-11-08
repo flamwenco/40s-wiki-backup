@@ -2,7 +2,7 @@
 title: 40% Keycaps
 description: A list of known keysets
 published: true
-date: 2026-11-07T23:51:33.506Z
+date: 2026-11-08T00:26:33.532Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
@@ -65,6 +65,7 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 
 #### N
 - Napoleonic (KAT) [Unique Kitting]
+- [Neon Nights](https://40s.wiki/en/keycaps/dss-neon-nights) (DSS) [40%]
 
 #### O
 - 
