@@ -2,7 +2,7 @@
 title: Signature Plastics
 description: Keycap Manufacturer based in Washington, USA
 published: true
-date: 2026-11-08T21:31:18.481Z
+date: 2026-11-08T21:34:12.076Z
 tags: manufacturers
 editor: markdown
 dateCreated: 2026-11-08T21:25:46.086Z
@@ -10,7 +10,7 @@ dateCreated: 2026-11-08T21:25:46.086Z
 
 # Signature Plastics
 
-They make nice keycaps...
+Signature Plastics is a [keycap manufacturer](/en/keycaps/manufacturers) they make nice keycaps...
 
 
 ## Profiles
