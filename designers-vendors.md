@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T05:46:19.006Z
+date: 2026-11-09T05:54:32.916Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -43,11 +43,10 @@ US based vendor selling only 40s products. Noteworthy boards sold include [Monor
 ### [MechVault](https://mechvault.net/)
 US based vendor selling only 40s products. Noteworthy boards sold include [Vault 35](/boards/vault-35), [Vault 16](/boards/vault-16), and [Oracle](/boards/oracle).
 
-### [MechWild](https://mechwild.com/)
-US based vendor selling 40s and larger products. Noteworthy boards sold include [Mercutio](/boards/mercutio), [Big Dill Extended](/boards/big-dill-extended), and [Clunker](/boards/clunker).
 
-### [Ringer Keys](/vendors/https://ringerkeys.com/)
+### [Ringer Keys](/vendors/ringer-keys)
 US based vendor selling primarily 40s products and keyboard parts. 
+https://ringerkeys.com/
 
 ## Canadian
 ### [Maple Keyboards](/vendors/maple-keyboards)
@@ -73,13 +72,20 @@ Chinese designer well-known for 40s boards like [Apricot](/boards/apricot) and [
 # Closed Vendors
 These are vendors that closed or went inactive.
 
-### Aternus 
+### [Aeternus](/vendors/aeternus) 
+https://store.aeternus.co/
+US based vendor 
 
-### Coffee Break Keyboards (CBKBD)
+
+### [Coffee Break Keyboards (CBKBD)](/vendors/cbkbd)
 https://www.cbkbd.com
 US based vendor selling only 40s products. Noteworthy boards sold include [QAZ](/boards/qaz) and [Coffeevan](/boards/coffeevan).
 
-### P3D
+### [MechWild](mechwild)
+https://mechwild.com/
+US based vendor selling 40s and larger products. Noteworthy boards sold include [Mercutio](/boards/mercutio), [Big Dill Extended](/boards/big-dill-extended), and [Clunker](/boards/clunker).
+
+### [P3D](/p3dstore)
 https://p3dstore.com
 US based vendor specializing in lasercutting and cerakoting as well as custom kits.  Noteworthy boards sold include [40rmie](/boards/40rmie), many [inivisbolt](/boards/invisibolt) cases, 
 
