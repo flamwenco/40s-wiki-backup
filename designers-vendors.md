@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T05:24:27.629Z
+date: 2026-11-09T05:24:50.525Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -25,9 +25,6 @@ Artisan keycap manufacturer known for 40s compatibility. Offers individual keys,
 ### Cannonkeys
 https://cannonkeys.com
 Vendor of primarily larger boards, but NicePBT and PBS keycap sets often have 40s compatibility for fairly cheap.
-
-### [Coffee Break Keyboards (CBKBD)](https://www.cbkbd.com)
-US based vendor selling only 40s products. Noteworthy boards sold include [QAZ](/boards/qaz) and [Coffeevan](/boards/coffeevan).
 
 ### [JLW Keyboards](https://www.jlw-kb.com/)
 US based vendor selling only 40s products. Noteworthy boards sold include [Le Chiffre Plus](/boards/le-chiffre-plus) and [Pip Boys](/boards/pip-boys).
