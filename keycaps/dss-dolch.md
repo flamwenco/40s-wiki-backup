@@ -2,7 +2,7 @@
 title: DSS Dolch
 description: Keycap set inspired by Dolch Computer Systems
 published: true
-date: 2026-11-09T02:42:02.073Z
+date: 2026-11-09T05:27:45.729Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T02:41:39.587Z
@@ -13,7 +13,9 @@ dateCreated: 2026-11-09T02:41:39.587Z
 {.is-danger}
 
 
-DSS _ is a keycap set designed by _. 
+DSS Dolch is a keycap set designed by Signature Plastics.
+
+"Dolch was the first custom set to be produced on the... re-commissioned DSS tooling."[^1]
 
 ## Specifications
 
@@ -43,3 +45,8 @@ The colors are Signature Plastics' stock color samples.
 - International
 - UK ISO
 - 7u Spacebar
+
+
+## References
+
+[^1]: Signature Plastics https://spkeyboards.com/products/dss-dolch
