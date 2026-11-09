@@ -1,16 +1,16 @@
 ---
 title: MikeTheTiger
-description: Keycap designer and the man behind Keyboard Arcade
+description: Keycap designer and the owner of Keyboard Arcade
 published: true
-date: 2026-11-09T05:51:55.259Z
-tags: designers
+date: 2026-11-09T06:10:27.206Z
+tags: vendors, designers
 editor: markdown
 dateCreated: 2026-11-09T04:59:55.176Z
 ---
 
 # MikeTheTiger
 
-Keycap [designer](/en/designers) behind many classic 40% keycap sets.
+Keycap [designer](/en/designers-vendors) behind many classic 40% keycap sets.
 
 Mike runs keyboardarcade.xyz
 
