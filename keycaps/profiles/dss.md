@@ -2,7 +2,7 @@
 title: DSS Profile
 description: Keycap profile manufactured by Signature Plastics
 published: true
-date: 2026-11-09T01:10:16.866Z
+date: 2026-11-09T01:25:57.538Z
 tags: keycaps, dss, profiles
 editor: markdown
 dateCreated: 2026-11-08T20:17:09.332Z
@@ -19,8 +19,8 @@ DSS is a [keycap profile](/en/keycaps/profiles) produced by [Signature Plastics]
 
 Set Name|40s Support|Normie Support
 |---|---|---
-420|Yes|No
-99¢|Yes|No
+[420](/en/keycaps/dss-420)|Yes|No
+[99¢](/en/keycaps/dss-99-cents)|Yes|No
 After School 1992|Yes|Yes
 All Hallows Eve|Yes|Yes
 Bounty Hunter|Yes|No
