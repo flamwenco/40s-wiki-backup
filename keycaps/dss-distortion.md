@@ -1,8 +1,8 @@
 ---
 title: DSS Distortion
-description: Punk Rock inspired DSS Set
+description: Keycap set inspired by Punk Rock
 published: true
-date: 2026-11-08T21:49:13.064Z
+date: 2026-11-09T01:50:03.479Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T18:59:17.898Z
