@@ -2,7 +2,7 @@
 title: Designers and Vendors
 description: A list of designers and vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T06:25:34.849Z
+date: 2026-11-09T07:37:24.849Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -38,7 +38,7 @@ US based vendor selling 40s and larger products.
 
 ### [Keyboard Arcade](/vendors/keyboardarcade)
 https://keyboardarcade.xyz/
-US based vendor selling only 40s products. Noteworthy boards sold include [Hyper40](/boards/hyper40). Notable keycaps sold include [DSS 420 R2](/keysets/dss-420) and [DSS White on Black](/keysets/dss-white-on-black).
+US based vendor selling only 40s products. Noteworthy boards sold include [Hyper40](/boards/hyper40). Notable keycaps sold include [DSS 420 R2](/en/keycaps/dss-420) and [DSS White on Black](/keysets/dss-white-on-black).
 
 ### [Kiser Designs](vendors/kiserdesigns)
 https://kiserdesigns.com/
