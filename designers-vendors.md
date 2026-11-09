@@ -1,8 +1,8 @@
 ---
-title: Vendors
-description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
+title: Designers and Vendors
+description: A list of designers and vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T06:06:17.731Z
+date: 2026-11-09T06:11:04.994Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
