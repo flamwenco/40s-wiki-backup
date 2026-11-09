@@ -2,7 +2,7 @@
 title: DSS Honeywell
 description: Keycap set inspired by the Honeywell BTRM 121C-001 terminal keyboard
 published: true
-date: 2026-11-09T07:01:16.689Z
+date: 2026-11-09T07:13:01.988Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T07:01:16.689Z
@@ -42,12 +42,18 @@ Legends| <span style="color: #212224; background-color: #808080;">**NN**</span>
 ## Kits
 
 
-### Round 1
+### Original In-Stock Sale
+
+The original set was an in-stock set, not a group buy.
+It was made available for pre-order in August 2019.
+There was a single base kit option that did not include 40% support.
 
 - Base kit
 
-
 ### 40% Fix Kits
 
-- 40s Monokit
-- Colemak kit
+The 40% Fix kits were offered at a much later time than the original base kit.
+Group Buy period: August 29 - September 26 2025
+
+- 40% Fix Kit
+- Nav Kit
