@@ -2,14 +2,14 @@
 title: Paw
 description: Paw by Aternus and dingusxcmgee
 published: true
-date: 2026-10-31T22:50:18.940Z
+date: 2026-11-09T05:56:03.118Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-31T22:50:18.939Z
 ---
 
 # Paw
-Paw is a arrow key macropad designed by dingusxmcgee and Taylor of Aeternus. It featured a polycarbonate case, brass plate and brass weight. The pcb used ZMK and utilized bluetooth connectivity with a small battery as well as onboard USB C. GB Packaging also included a fun auth card created by rose.
+Paw is a arrow key macropad designed by dingusxmcgee and Taylor of [Aeternus](/vendors/aeternus). It featured a polycarbonate case, brass plate and brass weight. The pcb used ZMK and utilized bluetooth connectivity with a small battery as well as onboard USB C. GB Packaging also included a fun auth card created by rose.
 
 ![winnd_paw.jpg](/boards/images/paw/winnd_paw.jpg)
 Paw GB unit from iamthewindd
