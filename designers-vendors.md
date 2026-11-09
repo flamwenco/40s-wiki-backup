@@ -2,12 +2,14 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T05:25:56.751Z
+date: 2026-11-09T05:46:19.006Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
 ---
 
+> This page is incomplete, you can help by creating the listed directories in their respective folders.
+{.is-danger}
 # Designers
 
 ## A
@@ -44,20 +46,23 @@ US based vendor selling only 40s products. Noteworthy boards sold include [Vault
 ### [MechWild](https://mechwild.com/)
 US based vendor selling 40s and larger products. Noteworthy boards sold include [Mercutio](/boards/mercutio), [Big Dill Extended](/boards/big-dill-extended), and [Clunker](/boards/clunker).
 
-### [Ringer Keys](https://ringerkeys.com/)
+### [Ringer Keys](/vendors/https://ringerkeys.com/)
 US based vendor selling primarily 40s products and keyboard parts. 
 
 ## Canadian
-### [Maple Keyboards](https://www.maplekbd.ca/)
+### [Maple Keyboards](/vendors/maple-keyboards)
+https://www.maplekbd.ca/
 Canadian vendor stocking primarily 40s boards and parts. Similar stock to CBKBD.
 
 
 ## EU
-### [Keeb Supply](https://keeb.supply/)
+### [Keeb Supply](/vendors/keeb-supply)
+https://keeb.supply/
 EU based vendor selling 40s and larger products as well as keyboard parts. Noteworthy boards sold include [Monorail](/boards/monorail), [Endgame](/boards/endgame), [Bully](/boards/bully), and [Ampersand](/boards/ampersand)
 
 ## East Asia
-### [Lazydesigners](https://lazydesigners.cn)
+### [Lazydesigners](/vendors/lazydesigners)
+https://lazydesigners.cn
 Chinese designer well-known for 40s boards like [Apricot](/boards/apricot) and [Duo](/boards/apricot).
 
 
@@ -67,7 +72,15 @@ Chinese designer well-known for 40s boards like [Apricot](/boards/apricot) and [
 
 # Closed Vendors
 These are vendors that closed or went inactive.
-### [Coffee Break Keyboards (CBKBD)](https://www.cbkbd.com)
+
+### Aternus 
+
+### Coffee Break Keyboards (CBKBD)
+https://www.cbkbd.com
 US based vendor selling only 40s products. Noteworthy boards sold include [QAZ](/boards/qaz) and [Coffeevan](/boards/coffeevan).
+
+### P3D
+https://p3dstore.com
+US based vendor specializing in lasercutting and cerakoting as well as custom kits.  Noteworthy boards sold include [40rmie](/boards/40rmie), many [inivisbolt](/boards/invisibolt) cases, 
 
 
