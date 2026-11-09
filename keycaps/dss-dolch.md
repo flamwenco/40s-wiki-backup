@@ -2,7 +2,7 @@
 title: DSS Dolch
 description: Keycap set inspired by Dolch Computer Systems
 published: true
-date: 2026-11-09T05:27:45.729Z
+date: 2026-11-09T05:36:16.992Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T02:41:39.587Z
@@ -32,6 +32,12 @@ Material| ABS
 
 The colors are Signature Plastics' stock color samples.
 
+Color|Code
+|---|---
+Alphas|<span style="color: #5f5c52; background-color: #000000;">**GE**</span>
+Mods|<span style="color: #333430; background-color: #000000;">**GX**</span>
+Legends|<span style="color: #ffffff; background-color: #000000;">**?**</span>
+Red Accents|<span style="color: #ba1312; background-color: #000000;">**RA**</span>
 
 ## Kits
 
