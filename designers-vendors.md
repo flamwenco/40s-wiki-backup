@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-08-23T03:46:05.805Z
+date: 2026-11-09T05:22:41.976Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -60,3 +60,10 @@ EU based vendor selling 40s and larger products as well as keyboard parts. Notew
 ## East Asia
 ### [Lazydesigners](https://lazydesigners.cn)
 Chinese designer well-known for 40s boards like [Apricot](/boards/apricot) and [Duo](/boards/apricot).
+
+## Previous Designers
+These are shops that closed or went inactive.
+### [Coffee Break Keyboards (CBKBD)](https://www.cbkbd.com)
+US based vendor selling only 40s products. Noteworthy boards sold include [QAZ](/boards/qaz) and [Coffeevan](/boards/coffeevan).
+
+
