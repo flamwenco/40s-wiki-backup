@@ -2,7 +2,7 @@
 title: DSS Distortion
 description: Keycap set inspired by Punk Rock
 published: true
-date: 2026-11-09T05:50:26.557Z
+date: 2026-11-09T06:31:58.198Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T18:59:17.898Z
@@ -43,11 +43,9 @@ Pink|<span style="color: #fd36a5; background-color: #000000;">**RFP**</span>
 
 ## Kits
 
-40s Monokit
-
-CutiePie Extension kit
-
-Colmak
+- 40s Monokit
+- CutiePie Extension kit* (commissioned by Xury)
+- Colmak kit* (commissioned by ColemakDaddy)
 
 ## References
 
