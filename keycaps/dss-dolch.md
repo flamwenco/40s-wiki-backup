@@ -2,13 +2,13 @@
 title: DSS Dolch
 description: Keycap set inspired by Dolch Computer Systems
 published: true
-date: 2026-11-09T02:41:39.587Z
+date: 2026-11-09T02:42:02.073Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T02:41:39.587Z
 ---
 
-# DSS Bounty Hunter
+# DSS Dolch
 > This page is incomplete.
 {.is-danger}
 
