@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T05:22:41.976Z
+date: 2026-11-09T05:24:27.629Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -18,10 +18,12 @@ A list of vendors that sell 40% keyboards followed by a brief description of wha
 
 ## USA
 
-### [Asymplex](https://www.asymplex.xyz)
+### Asymplex
+https://www.asymplex.xyz
 Artisan keycap manufacturer known for 40s compatibility. Offers individual keys, full sets, as well as spacebar sets, knobs, and even dice.
 
-### [Cannonkeys](https://cannonkeys.com)
+### Cannonkeys
+https://cannonkeys.com
 Vendor of primarily larger boards, but NicePBT and PBS keycap sets often have 40s compatibility for fairly cheap.
 
 ### [Coffee Break Keyboards (CBKBD)](https://www.cbkbd.com)
