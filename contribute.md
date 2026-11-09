@@ -2,7 +2,7 @@
 title: How to Contribute to the Wiki
 description: 
 published: true
-date: 2026-11-09T06:00:56.312Z
+date: 2026-11-09T06:07:33.272Z
 tags: meta, help
 editor: markdown
 dateCreated: 2026-08-23T04:04:53.774Z
@@ -22,4 +22,4 @@ Once you have created an account navigate using the sidebar and find the page yo
 # Style Guide
 Each type of page has a template. Please copy the templates when making new pages. As follows are a few stylistic rules to help keep the wiki consistent from page-to-page:
 - The first mention of a designer, vendor, specific keyboard, case, pcb, or keyset on each page should link to that page on the wiki using `[name of item](/link/to/item/)` internally within the wiki (what you would copy after the `/en/`). If that page does not yet exist, it should still be linked.
-
+- Try to keep articles objective. Avoid emotional statements regarding people or keyboard items.
