@@ -2,7 +2,7 @@
 title: Vendors
 description: A list of vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T06:04:07.349Z
+date: 2026-11-09T06:06:17.731Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -20,21 +20,23 @@ A list of vendors that sell 40% keyboards followed by a brief description of wha
 
 ## USA
 
-### Asymplex
+### [Asymplex](/vendors/asymplex)
 https://www.asymplex.xyz
 Artisan keycap manufacturer known for 40s compatibility. Offers individual keys, full sets, as well as spacebar sets, knobs, and even dice.
 
-### Cannonkeys
+### [Cannonkeys](/vendors/cannonkeys)
 https://cannonkeys.com
 Vendor of primarily larger boards, but NicePBT and PBS keycap sets often have 40s compatibility for fairly cheap.
 
-### [JLW Keyboards](https://www.jlw-kb.com/)
+### [JLW Keyboards](/vendors/jlw-kb)
+https://www.jlw-kb.com/
 US based vendor selling only 40s products. Noteworthy boards sold include [Le Chiffre Plus](/boards/le-chiffre-plus) and [Pip Boys](/boards/pip-boys).
 
-### [Keebio](https://keeb.io/)
+### [Keebio](/vendors/keebio)
+https://keeb.io/
 US based vendor selling 40s and larger products. 
 
-### [Keyboard Arcade](mikethetiger)
+### [Keyboard Arcade](/vendors/keyboardarcade)
 https://keyboardarcade.xyz/
 US based vendor selling only 40s products. Noteworthy boards sold include [Hyper40](/boards/hyper40). Notable keycaps sold include [DSS 420 R2](/keysets/dss-420) and [DSS White on Black](/keysets/dss-white-on-black).
 
@@ -47,13 +49,13 @@ https://mechvault.net/
 US based vendor selling only 40s products. Noteworthy boards sold include [Vault 35](/boards/vault-35), [Vault 16](/boards/vault-16), and [Oracle](/boards/oracle).
 
 
-### [Ringer Keys](/vendors/ringer-keys)
+### [Ringer Keys](/vendors/ringerkeys)
 https://ringerkeys.com/
 US based vendor selling primarily 40s products and keyboard parts. 
 
 
 ## Canadian
-### [Maple Keyboards](/vendors/maple-keyboards)
+### [Maple Keyboards](/vendors/maplekb)
 https://www.maplekbd.ca/
 Canadian vendor stocking primarily 40s boards and parts. Similar stock to CBKBD.
 
