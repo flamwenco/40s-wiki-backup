@@ -2,7 +2,7 @@
 title: DSS Profile
 description: Keycap profile manufactured by Signature Plastics
 published: true
-date: 2026-11-09T04:43:31.146Z
+date: 2026-11-09T07:14:42.569Z
 tags: keycaps, dss, profiles
 editor: markdown
 dateCreated: 2026-11-08T20:17:09.332Z
@@ -28,7 +28,7 @@ Set Name|40s Support|Normie Support
 [Distortion](/en/keycaps/dss-distortion)|Yes|No
 [Dolch](/en/keycaps/dss-dolch)|Yes|Yes
 [Drank](/en/keycaps/dss-drank)|Yes|Yes
-Honeywell|Yes|Yes
+[Honeywell](/en/keycaps/dss-honeywell)|Yes|Yes
 Government Cheese|Yes|No
 Hail Satan|Yes|No
 Hand Work|Yes|No
