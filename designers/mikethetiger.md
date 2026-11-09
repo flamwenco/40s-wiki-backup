@@ -2,7 +2,7 @@
 title: MikeTheTiger
 description: Keycap designer and the man behind Keyboard Arcade
 published: true
-date: 2026-11-09T05:16:35.405Z
+date: 2026-11-09T05:51:55.259Z
 tags: designers
 editor: markdown
 dateCreated: 2026-11-09T04:59:55.176Z
@@ -10,7 +10,7 @@ dateCreated: 2026-11-09T04:59:55.176Z
 
 # MikeTheTiger
 
-Keycap designer behind many classic 40% keycap sets.
+Keycap [designer](/en/designers) behind many classic 40% keycap sets.
 
 Mike runs keyboardarcade.xyz
 
