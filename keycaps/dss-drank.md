@@ -2,7 +2,7 @@
 title: DSS Drank
 description: Keycap set inspired by purple drank
 published: true
-date: 2026-11-09T06:01:24.914Z
+date: 2026-11-10T23:23:35.572Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T04:33:44.858Z
@@ -51,4 +51,4 @@ White| <span style="color: #e4dedd; background-color: #000000;">**WA**</span>
 ### Round 2
 
 - 40s Monokit
-- Colemak kit
+- Colemak Child Kit* (commissioned by MostCallMeAndy)
