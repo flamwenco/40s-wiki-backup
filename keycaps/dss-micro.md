@@ -2,7 +2,7 @@
 title: DSS Micro
 description: Keycap set inspired by the smallest boards
 published: true
-date: 2026-11-11T07:09:15.087Z
+date: 2026-11-11T07:40:40.586Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:09:15.087Z
@@ -22,8 +22,8 @@ DSS Micro is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
