@@ -2,7 +2,7 @@
 title: DSS Sumo
 description: Keycap set inspired by citrus
 published: true
-date: 2026-11-11T09:00:47.962Z
+date: 2026-11-11T09:02:25.085Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:26.916Z
