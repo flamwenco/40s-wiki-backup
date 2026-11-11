@@ -2,7 +2,7 @@
 title: DSS Who's Afraid
 description: Keycap set inspired by Barnett Newman's paintings
 published: true
-date: 2026-11-11T08:35:33.957Z
+date: 2026-11-11T08:39:41.727Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:59.874Z
@@ -23,7 +23,7 @@ The goal [of this keycap set] is to enable anyone to create each painting using 
 [Designer](/en/designers)|MakerJake
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss) + [DSA](/en/keycaps/profiles/dss) Convex mini-bars
-Legends|Doubleshot
+Legends|Blank
 Material|ABS
 
 
