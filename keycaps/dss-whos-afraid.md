@@ -2,7 +2,7 @@
 title: DSS Who's Afraid
 description: Keycap set inspired by Barnett Newman's paintings
 published: true
-date: 2026-11-11T17:58:56.849Z
+date: 2026-11-11T18:05:25.379Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:59.874Z
