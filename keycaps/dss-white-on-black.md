@@ -2,7 +2,7 @@
 title: DSS White on Black
 description: Keycap set inspired by a classic WoB colorway
 published: true
-date: 2026-11-11T07:10:42.660Z
+date: 2026-11-11T07:43:14.364Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:42.660Z
@@ -22,8 +22,8 @@ DSS White on Black is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
