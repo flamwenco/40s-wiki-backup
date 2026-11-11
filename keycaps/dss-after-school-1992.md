@@ -2,7 +2,7 @@
 title: DSS After School 1992
 description: Keycap set inspired by pastel colors of the '90s
 published: true
-date: 2026-11-09T01:36:50.503Z
+date: 2026-11-11T07:35:48.826Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T01:36:50.503Z
@@ -13,15 +13,15 @@ dateCreated: 2026-11-09T01:36:50.503Z
 {.is-danger}
 
 
-DSS _ is a keycap set designed by _. 
+DSS After School 1992 is a keycap set designed by _. 
 
 ## Specifications
 
 |Key|Value
 |---|---
 Designer| _
-[Manufacturer](/en/keycaps/manufacturers)| [Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
-[Profile](/en/keycaps/profiles)| [DSS](/en/keycaps/profiles/dss)
+[Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
+[Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
 Legends| Doubleshot
 Material| ABS
 
