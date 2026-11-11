@@ -2,7 +2,7 @@
 title: How
 description: How do you use a 40% keyboard?
 published: true
-date: 2023-07-10T03:28:33.857Z
+date: 2026-11-11T09:08:48.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T05:27:06.612Z
@@ -33,7 +33,7 @@ The tap dance funcitonality in QMK allows a key to act differently if it has bee
 
 | ![](qaz-dss-micro.png) | 
 |:--:| 
-| [QAZ keyboard](https://40s.wiki/en/Boards/QAZ) with DSS Micro keycaps. Photo by BrokenFlows#1024 on Discord |
+| [QAZ keyboard](https://40s.wiki/en/Boards/QAZ) with [DSS Micro](/en/keycaps/dss-micro) keycaps. Photo by BrokenFlows#1024 on Discord |
 
 ## Combos
 
