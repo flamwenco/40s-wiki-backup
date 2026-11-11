@@ -2,7 +2,7 @@
 title: DSS Profile
 description: Keycap profile manufactured by Signature Plastics
 published: true
-date: 2026-11-11T06:14:16.978Z
+date: 2026-11-11T06:36:28.896Z
 tags: keycaps, dss, profiles
 editor: markdown
 dateCreated: 2026-11-08T20:17:09.332Z
@@ -32,19 +32,18 @@ Set Name|40s Support|Normie Support
 [Government Cheese](/en/keycaps/dss-government-cheese)|Yes|No
 [Hail Satan](/en/keycaps/dss-hail-satan)|Yes|Yes
 [Hand Work](/en/keycaps/dss-hand-work)|Yes|Yes
-Light Cycle|Yes|Yes
-Lights Out|Yes|Yes
-Micro|Yes|No
-Microcomputer|Yes|Yes
-Nano|Yes|No
+[Light Cycle](/en/keycaps/dss-light-cycle)|Yes|Yes
+[Lights Out](/en/keycaps/dss-lights-out)|Yes|Yes
+[Micro](/en/keycaps/dss-micro)|Yes|No
+[Microcomputer](/en/keycaps/dss-microcomputer)|Yes|Yes
+[Nano](/en/keycaps/dss-nano)|Yes|No
 [Neon Nights](/en/keycaps/dss-neon-nights)|Yes|No
-Sad Girl|Yes|Yes
-Sencillo|Yes|Yes
-Shale|Yes|No
-Sol Dark|Yes|No
-Sumo|Yes|No
-White on Black|Yes|No
-Who's Afraid|Yes|No
+[Sad Girl](/en/keycaps/dss-sad-girl)|Yes|Yes
+[Sencillo](/en/keycaps/dss-sencillo)|Yes|Yes
+[Sol Dark](/en/keycaps/dss-sol-dark)|Yes|No
+[Sumo](/en/keycaps/dss-sumo)|Yes|No
+[White on Black](/en/keycaps/dss-white-on-black)|Yes|No
+[Who's Afraid](/en/keycaps/dss-whos-afraid)|Yes|No
 
 
 # Normie Sets
