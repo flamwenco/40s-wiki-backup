@@ -2,7 +2,7 @@
 title: DSS Government Cheese
 description: Keycap set inspired by a processed cheese product
 published: true
-date: 2026-11-11T06:01:23.539Z
+date: 2026-11-11T07:37:48.446Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T06:01:23.539Z
@@ -22,8 +22,8 @@ DSS _ is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
