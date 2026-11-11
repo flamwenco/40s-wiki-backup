@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-11T18:53:00.928Z
+date: 2026-11-11T18:58:40.039Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
