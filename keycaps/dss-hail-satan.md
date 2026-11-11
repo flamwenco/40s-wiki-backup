@@ -2,7 +2,7 @@
 title: DSS Hail Satan
 description: Keycap set inspired by the fires of hell
 published: true
-date: 2026-11-09T07:29:30.300Z
+date: 2026-11-11T07:39:58.693Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T07:29:30.300Z
@@ -22,8 +22,8 @@ DSS Hail Satan is a keycap set designed by MikeTheTiger
 [Designer](/en/designers)|[MikeTheTiger](/en/designers/mikethetiger)
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss) + [DSA](/en/keycaps/profiles/dsa) minibars
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
