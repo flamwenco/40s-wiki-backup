@@ -2,7 +2,7 @@
 title: DSS Honeywell
 description: Keycap set inspired by the Honeywell BTRM 121C-001 terminal keyboard
 published: true
-date: 2026-11-09T07:13:01.988Z
+date: 2026-11-11T07:39:37.875Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T07:01:16.689Z
@@ -23,8 +23,8 @@ It is one of my sets inspired by the Honeywell BTRM 121C-001 computer terminal k
 [Designer](/en/designers)|PrimeKB + [MikeTheTiger](/en/designers/mikethetiger) ()
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss) + [DSA](/en/keycaps/profiles/dsa) minibars
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
