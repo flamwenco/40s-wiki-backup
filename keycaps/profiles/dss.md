@@ -2,7 +2,7 @@
 title: DSS Profile
 description: Keycap profile manufactured by Signature Plastics
 published: true
-date: 2026-11-11T07:13:46.478Z
+date: 2026-11-11T07:27:38.395Z
 tags: keycaps, dss, profiles
 editor: markdown
 dateCreated: 2026-11-08T20:17:09.332Z
@@ -14,6 +14,7 @@ dateCreated: 2026-11-08T20:17:09.332Z
 # DSS Profile
 DSS is a [keycap profile](/en/keycaps/profiles) produced by [Signature Plastics](/en/keycaps/manufacturers/signature-plastics).
 
+"This tooling was built in the early 80's to offer a sculptured look to the popular [DSA](/en/keycaps/profiles/dsa) profile. It is a medium height profile, shorter than [SA](/en/keycaps/profiles/sa), with a textured spherical touch surface and smooth sided like DSA. The DSS family had a relatively short life as it lost its commercial appeal to the [DCS](/en/keycaps/profiles/dcs) family which had a more popular cylindrical touch surface."[^1]
 
 # 40s Sets
 
@@ -56,3 +57,7 @@ FontAwesome|<span style="color: red;">**No**</span>|Yes
 Late Harvest|<span style="color: red;">**No**</span>|Yes
 Olivia|<span style="color: red;">**No**</span>|Yes
 Tecla|<span style="color: red;">**No**</span>|Yes
+
+## References
+
+[^1]: SPKeyboards DSS Dolch Collection https://spkeyboards.com/products/dss-dolch
