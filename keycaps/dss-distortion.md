@@ -2,7 +2,7 @@
 title: DSS Distortion
 description: Keycap set inspired by Punk Rock
 published: true
-date: 2026-11-11T07:50:01.468Z
+date: 2026-11-11T08:57:42.400Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-08T18:59:17.898Z
@@ -37,7 +37,8 @@ Color|Code
 Alphas|<span style="color: #38363f; background-color: #808080;">**NEZ**</span>
 Mods|<span style="color: #212224; background-color: #808080;">**NN**</span>
 Pink|<span style="color: #fd36a5; background-color: #000000;">**RFP**</span>
-<!-- NOTE: The NEZ and RFP hex colors were eyeballed, not measured like the NN color was. -->
+<!-- NOTE: The NN hex color was measured from a SP color chip. -->
+<!-- The NEZ and RFP hex colors were sampled from the image, not measured. -->
 
 <img src="/image/img_2508.jpg" width="600">
 
