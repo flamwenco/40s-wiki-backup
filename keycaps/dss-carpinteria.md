@@ -2,7 +2,7 @@
 title: DSS Carpinteria
 description: Keycap set inspired by dusk at Carpinteria, California
 published: true
-date: 2026-11-11T06:09:42.147Z
+date: 2026-11-11T07:38:43.183Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T02:09:29.824Z
@@ -22,8 +22,8 @@ DSS Carpinteria is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
