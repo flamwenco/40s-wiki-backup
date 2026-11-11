@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-08T22:26:11.048Z
+date: 2026-11-11T07:33:38.433Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
@@ -32,7 +32,7 @@ These abbreviations are often derived from internal specifications, such as mach
 - OEM
 - PBS
 - PFF
-- SA
+- [SA](/en/keycaps/profiles/sa)
 - SS
 - URSA
 - XDA
