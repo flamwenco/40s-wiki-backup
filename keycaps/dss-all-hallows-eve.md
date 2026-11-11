@@ -2,18 +2,18 @@
 title: DSS All Hallows Eve
 description: Keycap set inspired by Halloween
 published: true
-date: 2026-11-09T01:41:14.428Z
+date: 2026-11-11T06:14:48.937Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T01:41:14.428Z
 ---
 
-# DSS All Hallows Eve
+# DSS All Hallows' Eve
 > This page is incomplete.
 {.is-danger}
 
 
-DSS _ is a keycap set designed by _. 
+DSS All Hallows' Eve is a keycap set designed by Halloween. 
 
 ## Specifications
 
