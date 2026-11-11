@@ -2,7 +2,7 @@
 title: Signature Plastics
 description: Keycap Manufacturer based in Washington, USA
 published: true
-date: 2026-11-11T07:30:40.604Z
+date: 2026-11-11T07:50:23.102Z
 tags: manufacturers
 editor: markdown
 dateCreated: 2026-11-08T21:25:46.086Z
@@ -10,7 +10,8 @@ dateCreated: 2026-11-08T21:25:46.086Z
 
 # Signature Plastics
 
-Signature Plastics is a [keycap manufacturer](/en/keycaps/manufacturers) they make nice keycaps...
+Signature Plastics is a [keycap manufacturer](/en/keycaps/manufacturers).
+Signature Plastics began in 1975 as Comptec Inc.[^1]
 
 
 ## Profiles
@@ -23,3 +24,7 @@ Signature Plastics makes many [keycap sets](https://spkeyboards.com/collections/
 - F10
 - G20
 - [SA](/en/keycaps/profiles/sa)
+
+## References
+
+[^1]: SPKeyboards Learn More About SPK https://spkeyboards.com/pages/about
