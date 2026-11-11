@@ -2,7 +2,7 @@
 title: Designers and Vendors
 description: A list of designers and vendors that sell 40% keyboards followed by a breif description of what they sell
 published: true
-date: 2026-11-09T07:37:24.849Z
+date: 2026-11-11T01:03:41.017Z
 tags: vendors, vendor, designers, designer
 editor: markdown
 dateCreated: 2025-01-20T21:32:50.940Z
@@ -12,7 +12,9 @@ dateCreated: 2025-01-20T21:32:50.940Z
 {.is-danger}
 # Designers
 
-## A
+[madmax13](/en/designers/madmax13)
+[MikeTheTiger](/en/designers/mikethetiger)
+
 
 # Vendors
 A list of vendors that sell 40% keyboards followed by a brief description of what they sell
