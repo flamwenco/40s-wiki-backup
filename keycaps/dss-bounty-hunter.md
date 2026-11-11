@@ -2,7 +2,7 @@
 title: DSS Bounty Hunter
 description: Keycap set inspired by Boba Fett
 published: true
-date: 2026-11-11T07:36:17.809Z
+date: 2026-11-11T07:38:34.452Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T01:44:23.526Z
@@ -22,8 +22,8 @@ DSS Bounty Hunter is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
