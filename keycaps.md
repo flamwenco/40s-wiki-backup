@@ -2,7 +2,7 @@
 title: 40% Keycaps
 description: A list of known keysets
 published: true
-date: 2026-11-08T20:23:39.777Z
+date: 2026-11-11T06:27:52.307Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-03-21T05:25:01.665Z
@@ -17,12 +17,11 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 
 
 #### Number Names
-- 420 (DSS) [40%]
-- 420 R2 (DSS) [40%]
+- [420](/en/keycaps/dss-420) (DSS) [40%]
 
 #### A
 - After School 1992 (DCS) [40%]
-- All Hallows' Eve (DSS) [Unique Kitting]
+- [All Hallows' Eve](/en/keycaps/dss-all-hallows-eve) (DSS) [Unique Kitting]
 
 #### B
 - 
@@ -42,12 +41,12 @@ This page also serves as a to-do list. If there is a keycap set listed below wit
 - 
 
 #### G
-- Government Cheese (DSS) [40%]
+- [Government Cheese](/en/keycaps/dss-government-cheese) (DSS) [40%]
 
 #### H
-- Hail Satan (DSS) [40%]
-- Handwork (DSS) [Unique Kitting]
-- Honeywell (DSS) [Fix Kit]
+- [Hail Satan](/en/keycaps/dss-hail-satan) (DSS) [40%]
+- [Hand Work](/en/keycaps/dss-hand-work) (DSS) [Unique Kitting]
+- [Honeywell](/en/keycaps/dss-honeywell) (DSS) [Fix Kit]
 
 #### I
 - Input (DCS) [40%]
