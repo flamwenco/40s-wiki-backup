@@ -2,7 +2,7 @@
 title: Keycap Profiles
 description: Physical design and shape of a keycap set
 published: true
-date: 2026-11-11T07:33:38.433Z
+date: 2026-11-11T18:53:00.928Z
 tags: keycaps
 editor: markdown
 dateCreated: 2026-11-08T20:05:38.466Z
@@ -27,11 +27,11 @@ These abbreviations are often derived from internal specifications, such as mach
 - HiPro
 - HSA
 - HUB
-- MT3
+- [MT3](/en/keycaps/profiles/mt3)
 - [MTNU](/en/keycaps/profiles/mtnu)
 - OEM
-- PBS
-- PFF
+- [PBS](/en/keycaps/profiles/pbs)
+- [PFF](/en/keycaps/profiles/pff)
 - [SA](/en/keycaps/profiles/sa)
 - SS
 - URSA
