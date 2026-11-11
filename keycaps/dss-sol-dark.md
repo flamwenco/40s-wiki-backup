@@ -2,7 +2,7 @@
 title: DSS Sol Dark
 description: Keycap set inspired by the Solarized Dark code editor theme
 published: true
-date: 2026-11-11T07:10:16.415Z
+date: 2026-11-11T07:42:47.337Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:16.415Z
@@ -22,8 +22,8 @@ DSS Sol Dark is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
