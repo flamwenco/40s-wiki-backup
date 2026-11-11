@@ -2,7 +2,7 @@
 title: DSS Sumo
 description: Keycap set inspired by citrus
 published: true
-date: 2026-11-11T09:02:25.085Z
+date: 2026-11-11T19:08:46.595Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:26.916Z
@@ -16,12 +16,13 @@ dateCreated: 2026-11-11T07:10:26.916Z
 
 |Key|Value
 |---|---
-Designer|SwearWolf
+[Designer](/en/designers)|[Swear_Wolf](/en/designers/swear-wolf)*
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
 Legends|Doubleshot
 Material|ABS
 
+*Sumo novelty by [Deadeye](https://switchbox.studio/)
 
 ### Color Codes
 
@@ -38,7 +39,7 @@ White|<span style="color: #e4dedd; background-color: #000000;">**WA**</span>
 
 ## Kits
 
-- 40s Monokit* (Sumo novelty from [Deadeye](https://switchbox.studio/))
+- 40s Monokit
 
 ![dss-sumo-monokit.webp](/dss-sumo-monokit.webp)
 
