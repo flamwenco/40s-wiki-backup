@@ -2,14 +2,11 @@
 title: DSS Profile
 description: Keycap profile manufactured by Signature Plastics
 published: true
-date: 2026-11-11T07:31:00.760Z
+date: 2026-11-11T08:00:22.454Z
 tags: keycaps, dss, profiles
 editor: markdown
 dateCreated: 2026-11-08T20:17:09.332Z
 ---
-
-> This page is incomplete.
-{.is-danger}
 
 # DSS Profile
 DSS is a [keycap profile](/en/keycaps/profiles) produced by [Signature Plastics](/en/keycaps/manufacturers/signature-plastics).
