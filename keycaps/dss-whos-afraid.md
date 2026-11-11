@@ -2,16 +2,13 @@
 title: DSS Who's Afraid
 description: Keycap set inspired by Barnett Newman's paintings
 published: true
-date: 2026-11-11T08:34:05.958Z
+date: 2026-11-11T08:35:33.957Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:59.874Z
 ---
 
 # DSS Who's Afraid
-> This page is incomplete.
-{.is-danger}
-
 
 DSS Who's Afraid is a keycap set designed by MakerJake.
 
@@ -47,7 +44,9 @@ Blue|<span style="color: #294075; background-color: #000000;">**P 105-8 C**</spa
 
 ## Kits
 
-40s Monokit
+- 40s Monokit
+
+![dss_whos_afraid_monokit.jpeg](/dss_whos_afraid_monokit.jpeg)
 
 ## References
 
