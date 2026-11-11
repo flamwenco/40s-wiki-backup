@@ -2,7 +2,7 @@
 title: DSS Drank
 description: Keycap set inspired by purple drank
 published: true
-date: 2026-11-10T23:23:35.572Z
+date: 2026-11-11T07:37:12.422Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-09T04:33:44.858Z
@@ -20,10 +20,10 @@ DSS Drank is a keycap set designed by MikeTheTiger
 |Key|Value
 |---|---
 [Designer](/en/designers)|[MikeTheTiger](/en/designers/mikethetiger)
-[Manufacturer](/en/keycaps/manufacturers)| [Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
-[Profile](/en/keycaps/profiles)| [DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+[Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
+[Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
