@@ -2,7 +2,7 @@
 title: DSS Who's Afraid
 description: Keycap set inspired by Barnett Newman's paintings
 published: true
-date: 2026-11-11T08:39:41.727Z
+date: 2026-11-11T17:58:56.849Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:59.874Z
@@ -29,17 +29,14 @@ Material|ABS
 
 ### Color Codes
 
-The colors are Signature Plastics' stock color samples.
-
-### Color Codes
-
-The colors were color matched to Pantone color swatches.
+Pantone color swatches were explored when the keyset was going to be produced in the [PBS](/en/keycaps/profiles/pbs) profile.
+<span style="color: #BF312C; background-color: #000000;">**P 48-16 C**</span>, <span style="color: #F3C521; background-color: #000000;">**P 7-8 C**</span>, <span style="color: #294075; background-color: #000000;">**P 105-8 C**</span> However, the colors used for production are Signature Plastics' stock color samples.
 
 Color|Code
 |---|---
-Red|<span style="color: #BF312C; background-color: #000000;">**P 48-16 C**</span>
-Yellow|<span style="color: #F3C521; background-color: #000000;">**P 7-8 C**</span>
-Blue|<span style="color: #294075; background-color: #000000;">**P 105-8 C**</span>
+Red|<span style="color: #ba1312; background-color: #000000;">**RA**</span>
+Yellow|<span style="color: #f2c700; background-color: #000000;">**YCH**</span>
+Blue|<span style="color: #005190; background-color: #000000;">**BFK**</span>
 
 
 ## Kits
