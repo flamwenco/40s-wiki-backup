@@ -2,7 +2,7 @@
 title: DSS Sumo
 description: Keycap set inspired by citrus
 published: true
-date: 2026-11-11T07:10:26.916Z
+date: 2026-11-11T07:42:58.602Z
 tags: keycaps, dss
 editor: markdown
 dateCreated: 2026-11-11T07:10:26.916Z
@@ -22,8 +22,8 @@ DSS Sumo is a keycap set designed by _.
 Designer| _
 [Manufacturer](/en/keycaps/manufacturers)|[Signature Plastics](/en/keycaps/manufacturers/signature-plastics)
 [Profile](/en/keycaps/profiles)|[DSS](/en/keycaps/profiles/dss)
-Legends| Doubleshot
-Material| ABS
+Legends|Doubleshot
+Material|ABS
 
 
 ### Color Codes
